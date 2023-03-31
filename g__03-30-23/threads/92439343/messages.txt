@@ -1,0 +1,19 @@
+Subject: 
+Post ID: 92439343
+Message: >OOP badWhy is /g/ like this?
+
+Post ID: 92450671
+Message: >>92439343 (OP)https://www.youtube.com/watch?v=XQtilPmhgUs[Embed]
+
+Post ID: 92450736
+Message: >>92439343 (OP)Because /g/ is unironically really bad at programming. It would be hard to believe that more than 1% of the people on /g/ actually know how to program and less than 1% of that 1% actually do it good.
+
+Post ID: 92450834
+Message: >>92449991>If the view model is not tightly coupled to the view, then there is no reason for it to exist. The view model keeps track of things like interaction state, which don't make sense without a specific view in mind.Just another example of your average /g/tard, everybody. Can you describe to me in one-two sentences what a Viewmodel even does?
+
+Post ID: 92450923
+Message: >>92450834It separates niggers from white people by segregating them into two groups>viewwalks in broad daylight>modelworks in coal minesit's common knowledge, really
+
+Post ID: 92451077
+Message: >>92450665Reminder that nobody gives a shit because encapsulation is where all the problems come from.
+

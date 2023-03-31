@@ -1,0 +1,19 @@
+Subject: /lol/ - land of lisp (and emac(...)
+Post ID: 92428856
+Message: >Lisp is a family of programming languages with a long history and a distinctive parenthesized prefix notation. There are many dialects of Lisp, including Common Lisp, Scheme, Clojure and Elisp.>Emacs is an extensible, customizable, self-documenting free/libre text editor and computing environment, with a Lisp interpreter at its core.>Emacs Resourceshttps://gnu.org/s/emacs/ (Website)https://github.com/emacs-tw/awesome-emacs/ (Awesome Emacs)>Learning EmacsC-h t (Interactive Tutorial)https://youtube.com/playlist?list=PLX2044Ew-UVVv31a0-Qn3dA6Sd_-NyA1n (Beginner-friendly Video Series)https://youtube.com/playlist?list=PLEoMzSkcN8oNmd98m_6FoaJseUsa6QGm2 (Emacs from Scratch)>Emacs Distroshttps://github.com/syl20bnr/spacemacs/ (Spacemacs)Comment too long.Click hereto view the full text.
+
+Post ID: 92472549
+Message: >>92472354True, but there was no real reason(other than rms' personal dislike of it) to not use common lisp for guix, when guile is specificly designed to extend other programs rather than be it's own thing.
+
+Post ID: 92472555
+Message: >>92469413And that's what makes projects like Guix (and Nix) so important.Because imagine how much wasted effort goes into maintaining the same packages over and over across all the different distros.You're basically having to create an exact declaration for things that packages treat as ill-defined. Many times packages don't even list (or know) all of their own dependencies. Because on standard distros you have a lib installed and don't even know it's being used.On Guix you have to know, and declare it precicely.If everyone used solutions like Guix to package their software from the start then all pacakge maintenance would basically be down to a science by now, rather than guesswork.
+
+Post ID: 92472566
+Message: >>92472549>guix rewritten to use sbclimagine how fucking fast it would be
+
+Post ID: 92472772
+Message: >>92472566If we're fantasizing, I'd like to also request that it have no daemon, and just be a simple executable with SUID permissions.
+
+Post ID: 92473021
+Message: Anybody here have some good ideas how to name my 4chan archival software?I'm planning to release three separate apps:- a relatively simple scraper optimized for downloading a small number of threads, including a feature where it monitors a board's catalog and downloads all threads whose OP matches a given search pattern (e.g. to download generals). You see it in picrelated, it's mostly done. [current working title: 4told]- a more complex archival software that is optimized for archiving entire boards and periodically uploads snapshots of the archive to LBRY (a distributed bittorrent database that can be accessed via odysee.com as well as dedicated client apps), so that we have a robust and decentralized 4chan archive that can't be taken out by merely shutting down one website. [4runner?]- a GUI app (possibly a local web-ui) that can search through and display threads from database snapshots produced by the aforementioned archival software. [4skin?]Not sure if this last one is needed though, I'll look into the FoolFuuka/Asagi stack and perhaps rely on it if I feel that it is easy enough for an average 4channer to set up for local usage.
+

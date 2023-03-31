@@ -1,0 +1,19 @@
+Subject: Game Dev General /gdg/  #2
+Post ID: 92419465
+Message: Here we discuss game dev from the /g/ perspective. This is to allow more technical discussion of code and engines compared to /agdg/.Last time: https://desuarchive.org/g/thread/92365575Sources and links (maybe we'll get a Pastebin or something up and running at some point)learnopengl: https://learnopengl.com/learn vulkan : https://vulkan-tutorial.com/Song Ho Ahn's website: http://www.songho.ca/index.htmlGame Physics Cookbook by Gabor Szauer/agdg/ :>>>/vg/agdg
+
+Post ID: 92450943
+Message: >>92450759No, well maybe I can't speak for everyone here. Just try and keep it /g/, and think about how you could enhance your post with things like code blocks. For example, if I take a skim of /agdg/, thishttps://i.4cdn.org/vg/1680214393429619.webmis a perfectly on topic to this general.>>92450871>Because OP posted about it in /agdg/ a couple days ago.True, that probably didn't help.
+
+Post ID: 92450979
+Message: >>92450916I've been messing around with a new animation, it's going to be fairly uncommon, but attached to a slow-firing weapon called the "Zero-Area-Ray" that collapses and mangles 2D space (where the game is). It's going to be paired with a faster weapon called the 'One-Dimensional-Filament', when you shoot the wobbly zone with a 1D filament they detonate each other for bonus damage, otherwise they just deal damage on their own.
+
+Post ID: 92451014
+Message: My game is in java, using an LWJGL wrapper library that hasnt been updated since 2015.
+
+Post ID: 92451081
+Message: >>92450979neat idea, might be difficult to explain in-game
+
+Post ID: 92451092
+Message: >>92450871Who is cris?
+

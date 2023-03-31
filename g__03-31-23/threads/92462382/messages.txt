@@ -1,0 +1,55 @@
+Subject: RAM moore's law
+Post ID: 92462382
+Message: Back in my days when I would look at laptops from one year to the next you'd see some spec improvement,now my 5 years old laptop has 32GB of ram and 1TB disk, and i was looking to upgrade but the current top gamma still has those same fucking specs. I would expect to see many laptops with at least 64GB ram and >2TB SSD but they are nowhere to be seen?.Is it because normies don't need more than 32gb ram so producers just don't go there? Or has innovation truly stopped? What the fuck is going on?
+
+Post ID: 92462446
+Message: You don't really need more than 16GB of RAM and that's being generous. 8GB of RAM is really more than enough for any daily-task programs. What do you need more than 4GB of RAM for anyway?
+
+Post ID: 92462498
+Message: normies dont even need more than 8gb of ram and neither do you. stop pretending
+
+Post ID: 92462515
+Message: >>92462446well i would like to be able to run some langage models locally on my laptop, or other machine learning stuff.I understand that's a niche market now, but i feel in a year or so a lot of people will want to run language models locally
+
+Post ID: 92462572
+Message: >>92462382 (OP)why are we being power limited
+
+Post ID: 92465047
+Message: >>92462382 (OP)bump>>92462446Unless you're doing something regarding somewhat intensive work.
+
+Post ID: 92465072
+Message: >>92462382 (OP)128,256, and 512GB DIMMs exist. We have more complex DIMMs with more chips, and there are more bits per chip on modern high end DRAM. End users don't typically have a use case for these, and DRAM sellers want to leave the door open for an upsell. Its not hard to understand this.
+
+Post ID: 92467163
+Message: >>92462382 (OP)>Or has innovation truly stopped?This
+
+Post ID: 92467324
+Message: >>92462382 (OP)>but they are nowhere to be seenthey exist, though
+
+Post ID: 92467393
+Message: >>92462446My browser has 2000 tabs open.
+
+Post ID: 92467462
+Message: >>92462382 (OP)You're full of shit OP.32gig was top of the line 5 years ago and if you get a top of the line laptop today you can get one with 64gig.You have to pay more than you did back then but that's inflation for you.
+
+Post ID: 92468590
+Message: >>92462382 (OP)>>92465072Just wait for Windows 12 to double or triple RAM requirements (for no real reason). DRAM prices will have to fall in order to ensure computers remain affordable.
+
+Post ID: 92471080
+Message: >>92462382 (OP)>Or has innovation truly stopped?Yes.https://wiki.installgentoo.com/wiki/Stagnation
+
+Post ID: 92471120
+Message: Trans-sister count keeps increasing!
+
+Post ID: 92471675
+Message: >>92471120Such increase without corresponding speed increase is a hallmark of bloat.
+
+Post ID: 92472123
+Message: >>92468590Since the (hard) system requirements of Windows haven't changed since Vista, what single shred of evidence do you have to back up this asspull so epic, most of your digestive tract is in your hand right now?
+
+Post ID: 92472840
+Message: >>92462382 (OP)Asus ROG Zephyrus Duo 16Asus ROG Strix Scar 16 / 18MSI & Lenovo have some models that go up to 64GB, too.Also Macbook Pro, in case Apple fits your needs.
+
+Post ID: 92473004
+Message: >>92462382 (OP)https://slatestarcodex.com/2019/03/13/does-reality-drive-straight-lines-on-graphs-or-do-straight-lines-on-graphs-drive-reality/
+

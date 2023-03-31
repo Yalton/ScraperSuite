@@ -1,0 +1,28 @@
+Subject: SENATE BILL 686 (PATRIOT ACT v2) discussion
+Post ID: 92450676
+Message: https://www.congress.gov/bill/118th-congress/senate-bill/686/textThis bill is arguably the most egregious federal power grab in American History.If Senate Bill 686 passes, the federal government can make it illegal to access services hosted in any country the US government deems a national security threat. Countries already considered to be a threat include China, Russia, Iran, the DPRK, and others. If you circumvent these blocks or assist others in circumventing these blocks, the government can fine you <=$1,000,000, imprison you for <=20 years, and force you to forfeit any hardware or property used to circumvent said blocks to the US government. The government can also ban any site that seeks to undermine the democratic process or interfere with US elections. A board of appointed (NOT elected) officials will decide which sites to ban, advised by special interest groups and lobbyists. The government can also legally monitor any citizen for defiance of this act without having to tell them. (Three letter agencies are already doing this, but this will set a legal precedent that this kind of targeted surveillance is OK.)The icing on the cake: all of these proceedings are exempt from FOIA requests. You're not allowed to know what your government is doing. GOD BLESS AMERICA!>>92426721hit the bump limit, but the discussion must continue.
+
+Post ID: 92450713
+Message: >>92450676 (OP)If this is passed, the legality of VPNs, proxies, and even Tor may come into question.
+
+Post ID: 92450741
+Message: Rip yandex, does this bill have to go through the supreme court?
+
+Post ID: 92450770
+Message: My metaphor range is strange as anglesYou get tangled. Twist inside affectionsChannels repeat, complete. Can't competeCheck the hour texture, mind adventureExploit the pointInto tracks to devourMy intellects proceedWith NIGGER power
+
+Post ID: 92450862
+Message: >>92450676 (OP)>The government is allowed to keep secrets! Youre not allowed to know anything their doing>But YOURE not allowed to keep secrets! Its only okay when THEY do it!basically this new bill in a nutshell. The internet is doomed if this passes. It is legit a BILLION times worse than that Coppa shit 6 years ago.
+
+Post ID: 92450904
+Message: >>92450676 (OP)If this passes, when is it going to be? Next year? Next week? I feel like we should be taking this more seriously
+
+Post ID: 92450919
+Message: >>92450904Seconding this I feel like the Trump thing is an attempt at distracting from this
+
+Post ID: 92451026
+Message: we're talking about it here only AI transpositive irc channel!come join us!at irc.libera.chat#localmodels
+
+Post ID: 92451091
+Message: >>92450676 (OP)I can't find anything dumber that happened this year.>get cuban IPs (host vps botnet residential)>use hexedit and punch VPN/L2TP-IPSEC ports over american IPs (make hexedit seem like a continuation packet of a VPN udp stream)>regardless of their local and regional NAT preventing said user from actually opening a connection with the attacker, it is logged anyways!>american user unknowingly now in hostile alert when the middlebox packet inspection and detection saw those packet streams>Restrict Act == bool(true)>???>profitThat would be 20 years and 15 kilograms of gold bars, thank you very much!That would be 20 years and 15 kilograms of gold bars, thank you very much!That would be 20 years and 15 kilograms of gold bars, thank you very much!That would be 20 years and 15 kilograms of gold bars, thank you very much!
+

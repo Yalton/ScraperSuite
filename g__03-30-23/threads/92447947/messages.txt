@@ -1,0 +1,631 @@
+Subject: /pcbg/ - PC Building General
+Post ID: 92447947
+Message: >UPGRADE & BUILD ADVICEPost build list or current specs including MONITOR: https://pcpartpicker.com/Provide specific use cases (e.g. 4K editing, high FPS gaming)State budget and COUNTRY or you will not be helped>NEWSRTX 4070 rumored for release on April 13th; R7 7800X3D release April 6th.Recent releases: R9 7950X3D, R9 7900X3D, LG 27GR95QE>CPUS**HTPC(4K60)/Web Browsing: i3 10105, i3 12100Budget Gaming: R5 5600, i5 12400/FGaming: i5 13600K, R7 7700X; existing AM4 board: R7 5800X3DMulticore: R9 7950X; budget: i5 13600K**Existing AM4 board with an old chip? A Zen 3 CPU is likely the best option>GPUS1080p: RX 6700 XT; budget: RX 6600; ultra budget: used GTX 1660 Super1440p: RTX 4070 Ti; budget: RX 6800 XT, RTX 3070, RTX 3060 TI2160p: RTX 4090, RTX 4080, RX 7900 XTX ; budget: RTX 3090, RX 6900 XTAmateur production: RTX 3060 12GB, RTX 3090, RTX 4090>RAMDDR4: 2x 8GB (consider 2x 16GB) 3600 MT/s CL18DDR5: 2x 16GB 6000 MT/s CL30 (Zen4) 6400 MT/s CL32 (13th Gen)>COOLERSStandout: Peerless Assassin 120https://linustechtips.com/topic/891730-cpu-cooler-performance-tier-list/>PSUSAim for 50-75% PSU utilization at full system loadhttps://cultists.network/140/psu-tier-list/>SSDSStandout: WD SN770, Kingston KC3000Avoid: Samsung 970 Evo Plus, cheapest NVMe SSDshttps://ssd.borecraft.com/>MOTHERBOARD INFO:AM4 - CPU-less BIOS flash feature advisable if pairing with Ryzen 5000AM5 - CPU-less BIOS flash feature required if pairing with an X3D chipLGA1700 B660/Z690 - CPU-less BIOS flash feature required if pairing with Core 13th gen>GAMING MONITORShttps://pcpartpicker.com/user/pcbg/saved/dP3v4DPrevious:>>92443739
+
+Post ID: 92447969
+Message: >>92447947 (OP)nvidia continuing to make gpu's with low vram means that game developers are forced to optimize their games. I see that as a win
+
+Post ID: 92448022
+Message: >>92447969It seems like devs dont care because the players will believe that it is the GPUs fault and not lazy remastering or optimizing.
+
+Post ID: 92448028
+Message: After doing a bit of RAM overclocking here are the AIDA64 results. Left is XMP, right is 3600mhz. What do the rest the numbers mean?
+
+Post ID: 92448042
+Message: >>92447969The 3070 having 8GB VRAM is an insult to all their fans. They might as well have just spat in their face.8GB for 306012 GB for 307016 GB for 3080That would've been enough.
+
+Post ID: 92448047
+Message: >>92448022i think they will once their profits drop and realize no one is buying their games
+
+Post ID: 92448072
+Message: >>92448042meh, i think the 3060 ti and 3070 with 8 is enough. maybe the 3070 ti should've gotten at least 10 or 12. it's not the vram, it's the shitty game companies hiring low skill pajeets
+
+Post ID: 92448081
+Message: I have a question. Some people say 6700XT or 6750XT are capable of good 1440p gaming, but it is stuck in 1080p in the OP always. Now OP added 3060ti to 1440p budget tier and it is making me even more confused since 6700XT > 3060ti. Not huge difference, but from what I have seen the 6700Xt should be better
+
+Post ID: 92448088
+Message: >>92447969game developers will just tell you to stop being poor and upgrade
+
+Post ID: 92448110
+Message: >>92448064>Nobodyno need to call me names manI love huge casesBetter airflowMore expansionMore room for massive gpus
+
+Post ID: 92448114
+Message: I still haven't found a ATX 3.0 PSU graded above gold that is available in Europe. Yes, there's the Dark Rock 13, but that one is a bust. Although that one is slightly odd as reviewers praise it while user reports in various forums describe it as a jet turbine and in one case a complete failure as it fried his entire system.
+
+Post ID: 92448115
+Message: >>92448081idk what op is doing, the 6700 xt and 3060 ti are both good for budget 1440p. However, the 12 gb of vram may be more beneficial for higher res, so the 6700 xt might be better. Both cards do well at high fps on 1080p through
+
+Post ID: 92448119
+Message: >>92448072>it's the shitty game companies hiring low skill pajeetsThis is irrelevant, because this is a FACT. It's the reality of the situation. If Nvidia had more respect for the people who buy their shit and given them more VRAM, those buyers could've had better performance even if the PC ports are lousy. This is not a good excuse.
+
+Post ID: 92448133
+Message: should samsung ssd's still be avoided? There's a $55 deal on amazon for a 1 tb 970 plus and I'm thinking of picking one up..
+
+Post ID: 92448135
+Message: >>92448081op is nvidia shill simple as
+
+Post ID: 92448154
+Message: >>92440647modmic base is also like 50. id rather not have something sitting on my desk since there isnt a huge amount of space anyway (the space to the left of the keyboard is where my tablet and phone live)
+
+Post ID: 92448159
+Message: >>92448047There will always be retards that pay for nostalgia, i.e games like Hogsharts or remakes>>92448042I am getting my 3070 soon and I am very curious if VRAM will be such a big deal as everybody is making it out to be now. A few threads ago somebody asked about whether it was AMD conspiracy with media/devs to make Nvidia look bad or Nvidia just trying to scam and force earlier updatesIf you dont have enough VRAM just turn some settings down. How much of a difference can it be? Graphics have been really good for many years now, and it has stagnated almost to the point of regressing when looking at game studios attempting even more realism with face scans and what not
+
+Post ID: 92448168
+Message: >>92448081whoops, this is the right slide
+
+Post ID: 92448199
+Message: >>92448028>Testing with AIDA>TRIAL VERSION>Testing with AIDA at allWew, lad.Try Timespy instead for more of a real world scenario. Or pyprime for synthetic benchmark.Are you the Anon who asked about buying new RAM?Time in nano seconds is just response time of memory controller + memory itself combined into single number.
+
+Post ID: 92448205
+Message: >>92448135>>92448168How reliable is this? I have used it alot when trying to easily see the difference with cards
+
+Post ID: 92448225
+Message: >>92448135how come that 7900xt is worse than 6900xt?
+
+Post ID: 92448227
+Message: >>92448168>4090>less than 150 fps at 1440pkek what games and what cpu because i'm pulling 165-300+ fps in basically everything at max settings at 1440p
+
+Post ID: 92448228
+Message: >>92448199>TimespyWhy would I use a GPU benchmark to see if my RAM performs better?
+
+Post ID: 92448232
+Message: >>92448159>If you dont have enough VRAM just turn some settings down. How much of a difference can it bedo you want to enjoy the highest res texture packs without issues? get enough vram.
+
+Post ID: 92448246
+Message: >>92448154what is the point of having a vertical monitor?chan reading?
+
+Post ID: 92448265
+Message: >>92448228Nothing you do is going to make any noticable difference with respect to overclocking that RAM
+
+Post ID: 92448276
+Message: >>92448081Accusations of shilling aside it's all a matter of the games you play and your expectations. Can the 6700XT drive a consistent 100+ FPS in all games at 1440p? Hell no. Can it get you to at least 60 with a few setting drops? Absolutely. Personally I run a 1660 Super at 1440p and it does just fine because the most GPU heavy game I play is Elden Ring. If you're in the same boat then a 6700XT is plenty. On the other hand, if you want to max out CP2077 or whatever then you will need something stronger. Putting cards into "resolution categories" is always fuzzy.
+
+Post ID: 92448281
+Message: >>92448205toms is in general one of the most reliable sources because they actually test shit themselves and explain methodology>>92448227https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html
+
+Post ID: 92448288
+Message: >>92448246better for coding and reading pdf's
+
+Post ID: 92448294
+Message: >>92448225it's a retarded cpu bottlenecked graph, literally not a single reviewers shows 7900xt below 6900xt.
+
+Post ID: 92448299
+Message: >>92448288>reading pdf'sreading hentai doujinshi you mean
+
+Post ID: 92448305
+Message: >>92447401#Is there even a good 4k OLED monitor out there? Actual monitor not the LG tv. Pretty frustrating because i almost feel forced to buy either the MSI or alienware ultra wide. But then i have to deal with ultra wide faggotry
+
+Post ID: 92448310
+Message: >>92448159It depends on the resolution of the games you're playing at. I'm not sure what the current state of video games look like with VRAM usage and 1080p, 1440p, and 4K resolutions. I'm also unsure what the future will look like. I have heard however that there are games out there like Hogwarts Legacy and the recently released TLOU that will absolutely struggle with 8GB VRAM even at 1080p and especially 1440p. Whether this is true or not, I cannot say for sure.Here is a video and a demonstration of what happens when you don't have enough VRAM.https://youtu.be/q-iIgleuP-U?t=300[Embed]At around 5:00, the video about DOOM Eternal, goes from 1440p to 4K. The difference in framerate is absolutely staggering, it's more than a 100 FPS. At 4K, the 3060 can barely maintain 60 FPS, but the truth is that the 3070 is way faster than that. If the 3070 had something like 12 GB VRAM, the 3070 would be outputting WAY MORE than 60 FPS. This card is gimped by Nvidia. If you play at 1080p, I don't think it's going to be a problem, because you're most likely not going to be capping out all of that VRAM, but that's just my opinion.
+
+Post ID: 92448316
+Message: >>92448265>Nothing you do is going to make any noticable differenceso going for better timings, lower latency and faster clock is not worth it?
+
+Post ID: 92448321
+Message: >>92448228Time spy has CPU benchmark as well.
+
+Post ID: 92448326
+Message: >>92448305We're not at high refresh rate + reasonable size oled panels quite yet. And the ones available are expensive and/or flawed.
+
+Post ID: 92448329
+Message: >>92448246i normally have telegram in the top half and a browser window in the bottom half if im watching things or playing games on the main screen.normally, just tg open.
+
+Post ID: 92448335
+Message: Redpill me on using the 12% off Zip promo code on Newegg for $400+ orders. You can knock off about $100 off a $800 GPU. However, this seems way too good to be true.
+
+Post ID: 92448337
+Message: >>92448225AMD drivers suck, it will take a while until the 7000 series driver will mature
+
+Post ID: 92448352
+Message: >>92448316Whoever told you to overclock your RAM is memeing.
+
+Post ID: 92448361
+Message: >>92448337>it will take a while until the 7000 series driver will maturefucking waitfags, II swear
+
+Post ID: 92448365
+Message: >>92448305
+
+Post ID: 92448381
+Message: >>92448365>freesync>freesync>freesyncHow can nvidia compete?
+
+Post ID: 92448384
+Message: >>92448361small indie company, pls understand
+
+Post ID: 92448386
+Message: cope nvidia fags. amd gpu's get faster with every driver. they may be unstable, but that's a sign of progress
+
+Post ID: 92448395
+Message: >>92448352Are you kind of faggot who thinks this?>There is no difference between 3000 and 3600 DDR4 with same timings
+
+Post ID: 92448400
+Message: >>92448225I think the 6900XT is factory overclocked in that slide>>92448227I think you need to check the review for that one. Usually it is Watch_dogs legion, Far Cry 6, Microsoft FLight Sim, some Total War game and similiar stuff like that.>>92448232At what point do you stop seeing a difference between super duper ultra high and just super high? I just want to play games. Take Northern Journey for instance.>>92448281That makes me happy since it is hard to know who to believe.>>92448276I think I get what you mean, but it is easier for people to just look at categories.>>92448310>recently released TLOU that will absolutely struggleShould be noted that the porters for TLOU are the people beind the Arkham Knight failure as well. I doubt I will play in 4K any time soon. That is the good thing about not getting a gaming PC too early. Easier to appreciate solid fps in 1080p when all you have had before is a tired old gaming laptop
+
+Post ID: 92448418
+Message: >>92448225A few reasons. One is that it's a 1080p bench. There could be minor CPU bottlenecking or overhead differences between drivers. Second is that RDNA2 was very strong at 1080p for some reason. Might be drivers or it might be the chiplet architecture on RDNA3. Third is the fact that the 6950XT they used for the chart was one of the highest clocked models available. It's not a huge factor but worth a few percent.
+
+Post ID: 92448421
+Message: >>92448081>capable of good 1440p gamingThe 6700 XT is sub 60FPS in new titles, and it doesn't have DLSS. FSR2 is generally inferior in image quality and performance, and it's only in about half the games DLSS is in. Not a good choice for 1440p. If you want to go Radeon for 1440p, you should be getting a 6800 XT in my opinion, although with the 4070 rumored to be $600, the 6800 XT is a bad buy at its current price>6700XT > 3060tiDefinitely not the case>>92448119>even if the PC ports are lousyThere is an argument to be made about console hardware equivalency, but console publishers can't afford to release games into the Steam review meatgrinder. They'll force their devs to produce games that score well>>92448133Trash compared to an SN770>>92448159Definitely waitTM on the 4070. If it's $600, it's a far better product than a 3070 at $550. If you need to, you can always return the 3070, provided the pricing and performance of the 4070 pans out
+
+Post ID: 92448430
+Message: >>92448352I think so as well since my CPU is performing as expected, despite being heavily undervolted. I also have a FPS lock in place because of g-sync. What's the use of going for 2-5% more FPS  with RAM optimization if I will never even see that performance unless I play with 300fps and screen tearing like some sort of faggot 3rd worlder that only plays CS and zoomzone at the lowest settings?btw picrelated is the latency with 1T command rate
+
+Post ID: 92448444
+Message: >>92448421>and it doesn't have DLSS. FSR2 is generally inferior in image quality and performanceabsolutely retarded argument as 3060ti is not gonna be having any dlss updates as well while fsr is gonna work on all gpus even in 5 years.
+
+Post ID: 92448461
+Message: >>92448246its for when you fucked up and didn't buy a big enough one in the first placejoking aside, i really do think eventually we will all end up with 8k 55inch or 65inch oleds/microleds or something of the sortall the real estate you could ever need, retina-tier ppi, 0 compromisesits already technically doable, albeit expensive and limited to 60hz at 8k.plus, there's no gpus that can run games at 8k, much less at >60fpsbut 10 years from now, i can see us being there>inb4 too largeyea, you'd just run everything windowed, unless you wanted the extra immersivenesspicrel is vertical 32incher vs landscape 65incher
+
+Post ID: 92448478
+Message: >>92448395Except the timings arent the same, and the difference is much smaller than just looking at numbers. Maybe you gained a millisecond or two in response time and expect to see something. There's nothing to see.>>92448430If it's stable then good job. It's generally not worth the effort.
+
+Post ID: 92448496
+Message: >>92448421waitTM-anon, I cant wait. I have waited long enough. You got to start somewhere and I went with a 3070 because it was just slightly up in price from the 3060ti and the 6700XT>The 6700 XT is sub 60FPS in new titleWhat about 3060ti and 3070?
+
+Post ID: 92448561
+Message: >>92448496>What about 3060ti and 3070?nta but njewdia is pretty fast when it comes to optimizing their driver for new games, with amd it usually takes a while
+
+Post ID: 92448564
+Message: >>924482324K textures are pointless at 1080p, retard. Not only that, half of the time Ultra textures mean that you have do separately download a 40GB texture pack like in Watch Dogs Legion or Rainbow Six Siege, and the textures have no impact on image quality because they're just uncompressed versions of High (they look the same)>>92448310>Doom Eternal>Here is a video and a demonstration of what happens when you don't have enough VRAM.No, that's what happens when you're an idiot and don't set the cache size correctly. It's called user error>Hogwarts LegacyDoes not struggle at 1080p with 8GB VRAM>TLOUI haven't seen a real breakdown of this game yet (which is probably fine considering the state of the port: it needs a few patches to be playable anyway), but again: Ultra textures are unnecessary at 1080p. They're for 4K>>92448305>Is there even a good 4k OLED monitor out there?Does not exist.>>92448381By having a functioning HDR pipeline>>92448444>3060ti is not gonna be having any dlss updatesAbsolutely moronic. It gets regular updates and can use DLSS in all games that have DLSS
+
+Post ID: 92448569
+Message: >>92448478Performance gain is small but CPU/memory related stutters will be more rare as well.It's "free" anyway, all you lose is 15 minutes of your time. If he plays spondermon or baldman 3 there is difference. It's autism, you don't visit /g/ to get sane advice after all.
+
+Post ID: 92448572
+Message: >>92448564>Absolutely moronic. It gets regular updates and can use DLSS in all games that have DLSSthen turn on dlss3 on your 3060ti you absolute fucking retard. You literally can't. You get zero dlss updates so in 1 year you will be forced to use fsr anyway.
+
+Post ID: 92448576
+Message: >gamegpu>marvel's guardians of the galaxy>ultra
+
+Post ID: 92448612
+Message: >Ultra textures are unnecessary at 1080p. They're for 4Khow is this guy for real i'm literally laughing my ass off.
+
+Post ID: 92448626
+Message: >>92448569>CPU/memory related stuttersI'll be interested to see where they take the whole "moar cache" experiment on processors. I think RAM will have even less to gain in the future. Automatic boosting has killed overclocking processor frequency already. Everything is becoming less interesting for tweakers, that's for sure.
+
+Post ID: 92448632
+Message: >>92448564>No, that's what happens when you're an idiot and don't set the cache size correctly. It's called user errorWhat "cache size"? What the fuck are you talking about? Explain.Here is the 3070 getting exposed because of the lack of VRAM.https://www.youtube.com/watch?v=fJc--C01P90[Embed]Don't excuse this behavior, don't suck that green dick. Call them out, start forcing better changes. This shit fanboy dicksucking fest needs to fucking stop.
+
+Post ID: 92448667
+Message: >>92447947 (OP)>7800XT 12GB>Less than the 6800XTAm i missing something here, is this satire
+
+Post ID: 92448704
+Message: >>92448632>needs to fucking stop.you need to stop taking the bait
+
+Post ID: 92448719
+Message: >>92448496>What about 3060ti and 3070?Same thing, sub 60FPS, which is why I'm suggesting swapping to the 4070 if possible (and it turns out to perform like a 3080 for $600)>>92448576>snek: radeon>dog: benchmarking with rt (aka actually ultra)>>92448572Who said anything about frame gen? Super resolution get regular updates and all RTX cards benefit from them. You're so stupid you don't even understand something as simple as this. Here's an example of DLSS vs FSR2, where a 30 series card is using DLSS 3.Xhttps://youtu.be/wPeC7QiG6Ig[Embed]>>92448632>What "cache size"?Do you not understand the function of VRAM? If you tell the game that you have a larger cache than you do, obviously it won't work well, like in the case of Doom Eternal. Try to use what little literacy you have an examine the image I posted previously>lack of VRAMYou can always break cards if you want to. Run 16x MSAA, 8K, tell the game you have a larger VRAM buffer than you actually have, play AMD sponsored technologically bereft games, etc. Fortunately you can also not be a retard and forgo downloading that 40GB texture pack that has no effect on image quality
+
+Post ID: 92448773
+Message: >>92448626If you compare the % gains of faster RAM on AM5 X3D vs Non-X3D it's hitting diminishing returns much sooner. Too bad only HWU does this kind of testing I would like to see some other games tested. Still AM5 gains less from X3D than AM4, L2 cache is also bigger on Zen4 after all along with much faster memory and slightly faster IF. I want to see what Intel will do with their upcoming CPUs.
+
+Post ID: 92448785
+Message: >>92448667AMD and Nvidia messed around the naming schemes this gen. It's a clusterfuck. Just stick to price and benchmarked performance.
+
+Post ID: 92448825
+Message: >texture pack that has no effect on image qualityIs this how 1060 owners cope with playing in 360p?
+
+Post ID: 92448842
+Message: >>92448719What are you referring to EXACTLY when you say "cache size" in the video?>You can always break cards if you want to. Run 16x MSAA, 8K, tell the game you have a larger VRAM buffer than you actually have, play AMD sponsored technologically bereft games, etc. Fortunately you can also not be a retard and forgo downloading that 40GB texture pack that has no effect on image qualityThe entire point is that the 3070 is a fast card, but it's gimped because it's starved for VRAM. Had Nvidia given it the appropriate amount, somewhere around 12 GB, the issues that people are facing now wouldn't be so prevalent. But you keep sucking dick, man.https://www.youtube.com/watch?v=RQA3cTPNicg[Embed]
+
+Post ID: 92448847
+Message: Hopefully a few 2 slot 4070 options will exist. In games with DLSS, the 4070 will match the 7900 XT. And this isn't even getting into the issue of ray tracing, at least with Nvidia you get to dick around with it and decide if it's worthwhile.
+
+Post ID: 92448849
+Message: >>92448667We don't have good leak suggesting Navi32 will be 256bit, so if 192bit memory bus is used the only solutions are 6GB 12GB or 24GB. But as far as I can tell there are no 32Gb GDDR6 so this leaves us with 12GB or 6GB. Each GDDR6 chip is 32bit wide giving us 6 memory modules for total 192bit wide bus.
+
+Post ID: 92448858
+Message: >>92448825I think he owns a 2060.
+
+Post ID: 92448868
+Message: >>92448858i think hes just mentally ill unironically
+
+Post ID: 92448872
+Message: 13700k is gonna be better for consistent frame times at 4k than the 7800x3d isn’t it.
+
+Post ID: 92448903
+Message: I think one of my ram modules is acting up. They're almost 5 years old. I have 16gb (2x8) when turning on my pc but after a few hours one of them always stops working. I've already changed the ram slots and also tried reseting and updating the bios so I'd like to assume it's not a motherboard issue. Is there anything else I can do?
+
+Post ID: 92448906
+Message: Thank you based intel. 2x performance for same price. 16gb vram from $280!
+
+Post ID: 92448950
+Message: >>92448569>It's "free" anyway, all you lose is 15 minutes of your timedepending on if your overclock is stable>If he plays spondermon or baldman 3are those games worth playing? Always wanted to get into nu-Hitman and I really enjoyed Ultimate Spiderman waaaay back in the day
+
+Post ID: 92448951
+Message: >>92448906Should launch just in time for the 50 series
+
+Post ID: 92448964
+Message: >>92448906>drivers worse than amd
+
+Post ID: 92448985
+Message: >>92448872Doubtful. The cache is very helpful for 1% lows. Fewer memory fetches means fewer stutters. Plus at 4k you'll be 99% GPU bottlenecked regardless.
+
+Post ID: 92449034
+Message: >>92448569>Performance gain is small but CPU/memory related stutters will be more rare as welleven with 3000mhz RAM I have barely noticed any. Most stutters are due to unoptimized DX12 games
+
+Post ID: 92449057
+Message: >>92448950Baldman 3 has all the missions from rebooted 1, 2 and 3.I don't like open world games where all you do is following the markers so I didn't bother with spiderman.I would not pay full price for them but I have separate accounts for games bought on steam with VPN for pennies.
+
+Post ID: 92449098
+Message: >>92448825Weep, faggothttps://youtu.be/NxvoxpeeIaQ?t=432[Embed]>>92448842>when you say "cache size" in the video?The fuck? I'm talking about Doom Eternal's VRAM settings. If you tell the software you have a 16GB cache/buffer, you shouldn't be surprised when the the game is crippled if you only have 8GB. Again this has no effect on image quality: you're simply setting the correct cache size>>92448564>youtubeSorry I can't stand the typical AMDrone voiceHere's a good analysis of the REm4ke VRAM situationhttps://youtu.be/uMHLeHN4kYg[Embed]RT is bad enough that there's no reason to turn it on, meaning VRAM is a non issue, and of course the texture optimization on the game is trash (AMD sponsored game series), although it's a non issue for 8GB cards anyway>>92448903>Is there anything else I can do?Probably not. If you have DDR3, strongly consider upgrading to a DDR4 (or even DDR5) platform. Obviously depends on the full situation. If you have DDR4, you can just drop in a stick with the same speed and timings as your remaining stick
+
+Post ID: 92449118
+Message: >>92449034Good for you, my retarded brain would not let me be.It's hard or even impossible to tell the difference between 90 and 95 FPS after all.But once your system gets older the extra 5 frames will be visible and helpful.
+
+Post ID: 92449128
+Message: >>92449098on /fit/ when you give any sort of advice you're supposed to back up your posts with a video of your lifts. When are you going to post your pc?
+
+Post ID: 92449150
+Message: >>92449128we all know he got a 8gb card thats why hes coping so hard
+
+Post ID: 92449159
+Message: >>924491501060 has 6gb at best
+
+Post ID: 92449169
+Message: >>92447027>https://pcpartpicker.com/list/kdMD9rfuck me that's a beast rig
+
+Post ID: 92449211
+Message: >>92449159theres gotta bbe more to it or he wouldnt be this obsessed, maybe he sold one of his kidneys to afford njewdia
+
+Post ID: 92449231
+Message: why do nvidia consoomers love wasting their money? u can amd gpu's for literally half the price for 2x the performance
+
+Post ID: 92449249
+Message: >>92449231I want to make fun of Nvidiots, but then I remember that I cannot move past my iPhone addiction either. Maybe we all have a little of consoomer in us
+
+Post ID: 92449257
+Message: >>92449231nice try jensen
+
+Post ID: 92449262
+Message: >>92449231they can't generate their AI CPs with amd
+
+Post ID: 92449280
+Message: >>92449231Average normalfag has no idea AyMD GPUs even exist.It's the same thing as iToddlers.
+
+Post ID: 92449298
+Message: >>92449231Radeon is worthless
+
+Post ID: 92449314
+Message: >>92449249iphone is superior to poodroid tho thanks to ios.
+
+Post ID: 92449372
+Message: >>92449314*graphene OS in ur path*
+
+Post ID: 92449422
+Message: >>92449372does it even have any working apps?
+
+Post ID: 92449447
+Message: >>92449231>All these seething replies with nobody backing up why Nvidia is worth double the priceLoving every laugh
+
+Post ID: 92449450
+Message: >>92449422>does it even have any spyware?
+
+Post ID: 92449471
+Message: >>92449372If only they supported phones other than Pixels.Google has some bad habits with those phones.But it's funny, the easiest way to get rid of google spyware is to buy google phone.
+
+Post ID: 92449495
+Message: >>92448081IMO if you go down the 1440p pipeline you should buy a much more powerful card, not something that's "good enough" because in 2 years you'll end up maxing at 30 fps on new titles.Either play in 1080p or invest in something that can actually chew through 1440p like nothing.
+
+Post ID: 92449507
+Message: >>92449471>If only they supported phones other than Pixels.other manufacturers are becoming notoriously hard to root, its over for custom romlets
+
+Post ID: 92449535
+Message: >>92449450Yeah sorry i have to use my phone for work. I know neets like you only use it to masturbate to lolis
+
+Post ID: 92449545
+Message: >>92449262Not true for 7900xt(x).
+
+Post ID: 92449551
+Message: >>92447969>game developers are forced to optimize their games
+
+Post ID: 92449556
+Message: >>92449535bro, just use a privacy respecting open source browser like a sane person, "apps" are fucking bloat to collect ur data
+
+Post ID: 92449570
+Message: currently running 5600x and a 3070 ti @ 1440p. thoughts on 4070 ti vs 7900 xt? having a hard time deciding if the 20gb vram on the amd card is worth it, but i want to ditch this 8GB vram coaster while i still can
+
+Post ID: 92449571
+Message: >>92449556not everything can be done in a browser.
+
+Post ID: 92449586
+Message: >>92449571like? i even use discord in a browser
+
+Post ID: 92449598
+Message: >>92449507It's mostly because Google forbids them from using their own version of android, under the threat of not allowing g-apps on the device. So even though android is open source there is no way to not use google's version.I would pay extra for phone with factory unlocked bootloader. (this is where Pixel shines)I've unlocked bootloaders on multiple phones but mostly through exploits.When m$ preinstalled IE and media player on winblows they got anti-trusted. But when google does even more extreme thing no one cares.
+
+Post ID: 92449601
+Message: >>92449586like the app I use to manage over 200 apartments
+
+Post ID: 92449606
+Message: best budget card for 1440p?600 bucks for 6800 sapphire pulse or 465 for sapphire pulse 6700 xt (there is also msi mech for 40 bucks more)
+
+Post ID: 92449625
+Message: >>92447969>nvidia continuing to make gpu's with low vram means that game developers are forced to optimize their games.All it means is that nvidia owners below the high end are going to be looking at similar textures to consoles from 2013.
+
+Post ID: 92449626
+Message: >>92447969what actual crapNvidia just says TURN ON DLSS OR BUY A 4090
+
+Post ID: 92449632
+Message: >>92449601and theres absolutely no alternatives to that app and it cant be done in any other way? such a hard life... well enjoy the newest samshit fone i guess
+
+Post ID: 92449633
+Message: >>92449057>Baldman 3 has all the missions from rebooted 1, 2 and 3.but is it worth playing? I bought Hitman 2016 years but never got around to trying it out
+
+Post ID: 92449645
+Message: >>92449606Shit prices, how much extra for 6800XT/6900XT/6950XT?
+
+Post ID: 92449650
+Message: >>92447947 (OP)don't 6700 xt have 12 gb?seems odd to lower ram
+
+Post ID: 92449654
+Message: >>92449632>well enjoy the newest samshit fone i guessim using an iphone I already said android is awful. There are of course other apps they all either don't work in browser or suck.
+
+Post ID: 92449681
+Message: >>92449570Honestly both are skipable. As you mentioned the 4070Ti has a gimped buffer while the 7900XT is a janky 1st gen chiplet design. Gun to my head I'd go AMD but I'd much rather either a 69*0XT or stretch to a 4080. Or even just waiting it out. Your card is 2 years old - turning down settings is to be expected.
+
+Post ID: 92449683
+Message: >>92449633How can I know if you find it fun. I'll try to replay it once I get VR headset. (so not anytime soon because they all suck)
+
+Post ID: 92449691
+Message: >>92449118>It's hard or even impossible to tell the difference between 90 and 95 FPS after all.true, but there is a difference between, say, 90fps and 110-120>But once your system gets older the extra 5 frames will be visible and helpful.I don't like having components that are not powerful. When they get too old I just sell them on and get something that performs better or is more energy efficient
+
+Post ID: 92449706
+Message: >>92449645710 for nitro+ 6800xt but i have only 750w psu and it recommends 850
+
+Post ID: 92449716
+Message: >>92449654i cant imagine managing appartments on a small iphone screen doesnt suck too, i would at least get a imac with a macbook for that kinda stuff if you NEED to have apple productsTM
+
+Post ID: 92449719
+Message: >>92448159Selling gpus with less vram just makes them obsolete quicker its a pretty smart way idk i doubt most normies realize thathttps://youtu.be/qxpqJIO_9gQ[Embed]
+
+Post ID: 92449735
+Message: >>92449716of course it sucks but I need to have something on me 24/7. When im at home or in office I use a pc.
+
+Post ID: 92449762
+Message: >>92448906I'll believe it when I see it.
+
+Post ID: 92449764
+Message: >>92449735>need to be available 24/7you already suffer enough so i will leave u alone now
+
+Post ID: 92449787
+Message: >>92449764Yes remember to tip your landlord next time. They work 24/7 for you.
+
+Post ID: 92449795
+Message: >>92448849
+
+Post ID: 92449796
+Message: >>92449683>How can I know if you find it funI'm not asking you to decide. I want to know if it's a game worth getting into
+
+Post ID: 92449802
+Message: Do you guys buy parts over the course of weeks/months in batches?I bought CPU + GPU but need everything else, including monitor.
+
+Post ID: 92449804
+Message: >>92449762intel said they will double the cores so it must be double as good!>>92449787dont have one
+
+Post ID: 92449818
+Message: >>92449706750W is plenty unless you have some power hungry monster of a CPU.Nitro is the best 6800XT but also the most expensive.Did you check 6950XT at all? It's furnace on default settings so "some" UV is required.Even in my 3rd world shithole 6950XT AIB are less than what you have to pay for 6800XT.Fuck, I don't even want to suggest buying 4070 for $600.
+
+Post ID: 92449819
+Message: >>92449802Everything at once usually, unless its peripherals then I just buy then as I need them
+
+Post ID: 92449842
+Message: >>92449802I buy when I see a great deal, but I have enough random parts that I always have a few usable computers.
+
+Post ID: 92449865
+Message: >>92449802you buy everything at once so u can test the parts during the return window, and yes its pretty stressful if you start from scratch
+
+Post ID: 92449894
+Message: >>92449804>intel said they will double the cores so it must be double as good!If there are Intelfags it'll sell. AMD has been using this logic for years and you see a drone of shills in these threads every time without fail
+
+Post ID: 92449897
+Message: >>92449802Everything at once if possible, but usually over the course of a month due to supply issues.
+
+Post ID: 92449930
+Message: >>92448081wouldn't take the OP too seriously. i stopped caring after that time when two tards were fighting constantly for it and the recommendations changed every other thread.personally i think that 3060ti and up are all viable 1440p cards. viable meaning 60fps, NOW.but for futureproofing or higher refresh rates you need to go with better stuff.also vram is starting to become more and more of a real consideration. especially for 1440p/4k.
+
+Post ID: 92449937
+Message: >>92449650Ha, good luck getting any help without stating your budget and country, buddy. And don't even think about asking for advice without giving specific use cases. As for the news, I'll believe it when I see it. These companies are always coming up with new stuff to get us to spend more money. And don't even get me started on the CPUs and GPUs. There are so many options, it's enough to make your head spin. And if you're a gamer, just make sure you don't cheap out on your SSD or your cooler, or you'll regret it later.
+
+Post ID: 92449943
+Message: Will a locked 12400F + midrange B660 board "age" well? Or is a 8-core CPU the better choice If I plan on keeping it for 2-3 years.Asking for a friend.
+
+Post ID: 92449947
+Message: >>92449930>but for futureproofing or higher refresh rates you need to go with better stuff.Okay then, what's something good for future proofing for 1440p
+
+Post ID: 92449975
+Message: >>92449930OP should remove recommendations altogether and leave it to the "professionals" (pcpartpicker) and only include news and useful links, nobody reads all that shitty copypasta anyways
+
+Post ID: 92449979
+Message: >>92449897>>92449865>>92449842>>92449819What are you PC budgets for a new build typically?Last time I built was in 2015 and bought all new.Doing the same thing now plus custom loop watercooling. This thing is going to be like 6-7k now due to parts.
+
+Post ID: 92449982
+Message: >>92449796Then do some research of your own instead of asking random faggot on chinese basket weaving forum.What do you want me to say?>Must buy best thing since sliced bread>10/10 IGNkek
+
+Post ID: 92450001
+Message: >>92449979>What are you PC budgets for a new build typically?1k but it usually baloons up to 1.5 - 2k depending on deals
+
+Post ID: 92450041
+Message: >u can amd gpu's for literally half the price for 2x the performance>>92449231>why Nvidia is worth double the price>>92449447I thought it was obvious that the post was baitAt least at MSRP, Radeon often offers less performance, even when avoiding Ultra settings (RT) and features like DLSS (which is in 2x the number of games)>>92449545Interesting. How hard is it to set up RDNA3 for SD on Window$?>>92449570To me the 4070 Ti is a no brainer. Way better RT perf, but personally I think you can survive until next gen>>92449625Your fantasies are boring>>92449681>gimped bufferYou meant bus. But of course stats like that don't matter. It's clear that the bus is sufficient for the card
+
+Post ID: 92450042
+Message: >>92449894Everyone said not to buy Zen 4 at launch because it was overpriced, ddr5 was still expensive, and we all knew x3d models were coming soon. Everyone says not to bother with current rdna3 as its price performance is identical to rdna2 which is still readily available and discounted now.
+
+Post ID: 92450045
+Message: >>92449979Initial budget before doing any research was 2k, now I'm up to 5k due to getting memed into a 4090, 7800x3d and a good 4k monitor.At least that financial mistake will keep me satisfied for about 5 years at least.
+
+Post ID: 92450078
+Message: >>92450045>buy the 4090 they said>its the only viable choice this gen they said
+
+Post ID: 92450100
+Message: >>92449979I don't target a specific price. I go for the point before diminishing returns really kick in, and save up longer if I can't afford that currently instead of buying something inferior that won't hold its value. Like if I was building right now I'd probably get a 7900 XT and 7700X.
+
+Post ID: 92450109
+Message: >>92450045Yep, that's where I'm at.7950X3D / 4090FE / 6000MT DDR5 / AM5 X670E / AW3423DW + custom water cooling.
+
+Post ID: 92450119
+Message: >>92449719>that titleHe's really desperate for clicks>>92449802Buy everything as soon as possible, preferably in one batch. You can test for DOA components, and you don't have unused parts/money laying around.>>92449943More cores are pointless for gaming.
+
+Post ID: 92450149
+Message: >>92449947it depends, if you want 144fps then you might just have to go with the top end stuff. but otherwise: 6800xtor i went with a 6800 non xt, but only because of my 650W PSU.6700xt-6750xt are solid budget options, and those are already getting harder to recommend due to 12GB VRAM. but 12GB should be acceptable for the buget option.nvidia 30-series is more questionable due to this because you're also paying a premium for it.that's my current take on the situation.
+
+Post ID: 92450166
+Message: >>92449979Used to be 1.5k now it's 3.5k. 1.5k goes on GPU alone. I wonder how long DIY watercooling will be done for.
+
+Post ID: 92450177
+Message: >>92450166>I wonder how long DIY watercooling will be done for.What do you mean anon?
+
+Post ID: 92450188
+Message: >>92450119>More cores are pointless for gaming.meaning? a decent 6-core is enough for gaming only?
+
+Post ID: 92450202
+Message: >>92449943hard to say, as long humans are doing the programming 8 cores wont be necessary anytime soon but in case AI magic starts happening then that could lead to new unexpected developments in game engines
+
+Post ID: 92450204
+Message: >>92450149(also i say budget option but i mean budget in terms of 1440p)
+
+Post ID: 92450261
+Message: >>92450041>https://github.com/lshqqytiger/stable-diffusion-webui-directml>https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUsRocm doesn't support rdna3 yet so directml is probably the best option though ncnn would have greater compatibilitiy.
+
+Post ID: 92450262
+Message: >oof
+
+Post ID: 92450277
+Message: Would there be a performance difference between 2x16GB vs 4x8GB of RAM? Assuming the same specs and manufacturer
+
+Post ID: 92450288
+Message: >>92450177It's always been expensive but prices are getting to wild numbers now. Then there's the block manufacturers saying it's getting harder to source materials due to cost, EK this month said all prices are going up across the board. Not to mention companies like Nividia not even providing schematics to anyone anymore so they can't even get blocks out without months of delay. I hope the companies don't just go fuck it there's no money in it anymore and get out like EVGA did with GPUs.
+
+Post ID: 92450306
+Message: >>92450262>Cant even train let alone run stable diffusion
+
+Post ID: 92450314
+Message: >>92450277no, but overlcoking (which is meme anyway) sucks on fully slotted daisy chain architecture boards
+
+Post ID: 92450323
+Message: >>92450288Oh, yeah. I heard EK was doing that which fucking sucks because this is my first time considering a custom loop and I get the price increase at the exact time I'm looking to buy. Fuck me.
+
+Post ID: 92450330
+Message: >>92450277Not really. You won't be able to notice any for sure.But 4x8GB is pain on some boards to even run at XMP + Auto.So if the price is the same go for 2x16.
+
+Post ID: 92450335
+Message: >>92450306So... only GAYMERS will be buying it?Sounds alright, then
+
+Post ID: 92450337
+Message: >>92450188Core count itself isn't relevant. Multicore perf is important, but if you want better gaming performance, you'd be looking at CPUs with stronger single core or more cache>>92450277DDR4 can be slightly faster with 4x 8GBDDR5 will be faster with 2x 16GBThe increased cost of 4x 8GB DDR4 over a two stick kit isn't worth it; better to just buy a faster CPU
+
+Post ID: 92450351
+Message: Intel seems to be making significant progress with the Arc cards. I've been wanting to build a mid-range Windows machine, and I'm leaning on an A770 right now.  Any second opinions of the card so far? I already know Linux is a no-go.
+
+Post ID: 92450385
+Message: >>92450262people actually bought and are buying the 3060 in droves though, it'll be a success
+
+Post ID: 92450399
+Message: >>92450385Except the 3060 has 12G
+
+Post ID: 92450408
+Message: >>92450351dont buy arc unless youre getting a very good deal on it, also resizable bar is obligatory
+
+Post ID: 92450422
+Message: First timer here, might I ask for a build mostly for gaming (mainly emulation with some new games thrown in) and less so for drawing?It should include a monitor as well, I'm living in Italy and budget is about 2000€.
+
+Post ID: 92450449
+Message: >>92447947 (OP)>COOLERS>https://linustechtips.com/topic/891730-cpu-cooler-performance-tier-list/Man, that list is so fucking outdated it's not even funny.
+
+Post ID: 92450453
+Message: What's the best 7900 XT variant/model?
+
+Post ID: 92450489
+Message: >>92450422>It should include a monitor as wellwhat resolution, 1080p, 1440p or 4k?
+
+Post ID: 92450497
+Message: >>92450262What happened to Nvidia? what caused them to become like this? I swear, I don't remember them being this fucking bad during the Maxwell and Pascal era. The GTX 970, controversy aside, was well received. The 1080 Ti was also well received. What the fuck happened? This greed is unrivaled
+
+Post ID: 92450518
+Message: >>92450497njewdia has aspirations of being the apple of gaming
+
+Post ID: 92450527
+Message: >>92450497primarily amd incompetencewhen you have 90+% marketshare while being the more expensive option, you realize you can charge even more
+
+Post ID: 92450539
+Message: >>92448906Youtube man says that battlemage is cancelled
+
+Post ID: 92450551
+Message: >>92450497>I swear, I don't remember them being this fucking bad during the Maxwell and Pascal erahttps://www.youtube.com/watch?v=H0L3OTZ13Os[Embed]
+
+Post ID: 92450558
+Message: >>92450497The 4090 was well received.
+
+Post ID: 92450562
+Message: >>92450453Best or best value?Two different things.Performance wise there is little difference between all the models.When it comes to cooling AIB models are better than reference design.Check out Sapphire Pulse and Speedster MERC from XFX for decent value. (I lean toward Pulse)If you want beefcakes at the price of XTX check Nitro +, Asus TUF and Red Devil.
+
+Post ID: 92450563
+Message: >>92450539never trust jewtube man
+
+Post ID: 92450576
+Message: >>92450497People are buying RTX 3050 8Gb over RX 6600XT/6700 10Gb & Intel Arc A750/A770 because>muh DRIVERSThey've raised a bunch of corpo slaves
+
+Post ID: 92450600
+Message: >>92450576they just dont know AMD exists in many cases
+
+Post ID: 92450602
+Message: >>92450576>the card with less VRAM are running games better because muh DRIVERSAMDtrannies are absolutely pathetic. I guarantee the fucking 4050 will run better than a majority of your current gen cards from AMD.
+
+Post ID: 92450619
+Message: >>92450576well the arc drivers really do suck ass
+
+Post ID: 92450628
+Message: >>92450262i don’t get why they’re so weird about vram. Everyone says forced obsolescence, but buying a new GPU and having to put all your new games on LOW seems fucking retarded? its obsolete out of the box.
+
+Post ID: 92450637
+Message: >>92450489Right, sorry, ideally 1440p but I don't know how feasible it is given my budget.
+
+Post ID: 92450661
+Message: >>92450637are u happy with medium settings? if you want to crank up everything on ultra its better to stay on 1080p with a 2k budget
+
+Post ID: 92450680
+Message: >>9244994312700kf (230$) + z690i (159$) is the ideal budget+high end combination noweverything else obsolete>>92450277dont buy ddr4
+
+Post ID: 92450702
+Message: >>92450337thanks for the graph.If I can get a 12400 for 120-140€ then it's gonna be a sweet deal. I've seen 12500Fs go for 140€ during sales and they will likely drop even more in price once the 13400 comes out.
+
+Post ID: 92450727
+Message: >>92450661I should have imagined as much, I'll stay on 1080p then.
+
+Post ID: 92450758
+Message: >>92450680>12700kf (230$) + z690i (159$)LMAO, where are you seeing those prices?For me in Yurop the cheapest 12700k + decent z690 board cost 500€ combined. Literally double the price.
+
+Post ID: 92450766
+Message: >>92450758murricans evade taxes
+
+Post ID: 92450811
+Message: >>92450766>evade taxes>get shot>die because of shit insuranceKEK
+
+Post ID: 92450839
+Message: >>92450758Does the yuropean union get tariffed or something lmao just make a free trade agreement or something
+
+Post ID: 92450842
+Message: looking at acquiring a RX6900XT later in the year or possibly january for comfortable 1440p gaming. i have to tone down spending for the rest of the year, and i'm hoping for a price drop too, or am i stupid to wait?
+
+Post ID: 92450875
+Message: >>92450839>Does the yuropean union get tariffed or somethingI'm not sure, but having a war in jewkraine certainly doesn't help prices
+
+Post ID: 92450953
+Message: >>92450842>AMD GPU>comfortable 1440p gaminghave fun reinstalling drivers
+
+Post ID: 92450978
+Message: >>92450727best choice would be am5 right now so get whatever the cheapest 6 core is on that platform + cheapest mobo + cheapest 16x2(32)gb ram kit + cheapest gold rated 800 watt psu + any case that strikes your fancy + then whatever is left on best gpu u can still afford https://www.tomshardware.com/reviews/gpu-hierarchy,4388.htmlthe screen is entirely up to you, these things can last a lifetime, so they should be a wise investment where u need to do your research
+
+Post ID: 92451012
+Message: >>92450953work on my machine
+
+Post ID: 92451031
+Message: >>92451012I'm glad it does. If reinstalling drivers didn't work I'd be really pissed
+
+Post ID: 92451035
+Message: >oled review crying about productivity useLmao only fags use oled for productivity
+
+Post ID: 92451098
+Message: >>92450978Alright, thanks!
+
+Post ID: 92451105
+Message: >>92450422Here Pastaman.https://it.pcpartpicker.com/list/dXHsDqYou can downgrade motherboard to something cheaper but right now this Anus motherboard is well priced. So B550-A Pro from MSI or GB B550 Aorus Elite as backup.If you want AM5https://it.pcpartpicker.com/list/NQZvXyFor intel just change CPU to 13600K and Z690/790 board (Z690 will require UEFI update to run)Grab CPU cooler for around 50€ pcpartpicker has shit selection for Italia.You could go to 1080p but those system is perfectly capable of 1440p.Now tell me good recipe for food you like.
+

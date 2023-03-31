@@ -1,0 +1,19 @@
+Subject: /DIDG/ - Decentralized Digital(...)
+Post ID: 54389518
+Message: DIDs and VCs: The Building Blocks of Self-Sovereign IdentityDecentralized Identifiers (DIDs) and Verifiable Credentials (VCs) are crucial components of self-sovereign identity (SSI) protocols. They empower individuals and organizations to own, control, and share their digital identities securely and privately without relying on centralized authorities.>DIDsDIDs are globally unique identifiers that are created and controlled by the identity owner independently. They are registered on a distributed ledger or a blockchain, ensuring immutability and tamper-resistance.>VCsVCs are digital attestations of certain attributes or qualifications issued by a trusted party. They can be cryptographically signed and verified, allowing users to share and prove specific information without disclosing unnecessary personal details.Both DIDs and VCs are integral to SSI, as they promote privacy, security, and user autonomy in the digital world, reducing the risks of data breaches, identity theft, and unauthorized data sharing.> Upcoming Regulatory Changes: eIDAS and MIDASTwo significant regulatory changes—the revised eIDAS (electronic Identification, Authentication, and Trust Services) regulation and the introduction of MIDAS (Market Integrity Directive and its accompanying Regulation)—are expected to impact the identity and crypto industries.eIDAS is an EU regulation that establishes a legal framework for electronic identification and trust services. The updated eIDAS regulation will include provisions for decentralized identity solutions, which will help streamline digital identity management and enable secure cross-border transactions within the EU.Comment too long.Click hereto view the full text.
+
+Post ID: 54401113
+Message: >>54397915Its the best in making privacy-protecting digital identity solution an easy run for businesses and individuals
+
+Post ID: 54401119
+Message: >>54400455Can shitcoin pump?
+
+Post ID: 54402026
+Message: >>54390294>dogshit mica licenseoh... opinion dropped
+
+Post ID: 54402048
+Message: >>54390386>Cheqd>explain to me what you mean by identityyep checks out, completely retarded
+
+Post ID: 54402116
+Message: >>54397896>DiDs are based.yeah, based on money laundering using social media instead of real Identity.
+

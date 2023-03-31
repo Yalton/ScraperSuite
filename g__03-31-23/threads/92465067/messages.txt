@@ -1,0 +1,19 @@
+Subject: /fglt/ - Friendly GÑU/Lïnux Thread
+Post ID: 92465067
+Message: *May Stallman's aura keep this thread alive*Before asking for help, please check our list of resources.If you would like to try out GNU+Linux you can do one of the following:0) Use a live image and to boot directly into the GNU+Linux distribution without installing anything.1) Keep using your current OS and run GNU+Linux in VMware for W## or Parallels for macOS.2) Do the reverse of step 2 in QEMU.3) Replace everything with GNU+Linux.Resources: Please spend at least a minute to check a web search engine with your question.– Many free software projects have active mailing lists.$ man %command%$ info %command%$ %command% -h/--help/-?$ help %builtin/keyword%Don't know what to look for?$ apropos %something%Check the Wikis (most troubleshoots work for all distros):https://wiki.archlinux.orghttps://wiki.gentoo.org/g/'s Wiki on GNU/Linux:https://wiki.installgentoo.com/index.php/Category:GNU/Linux>What distro should I choose?https://wiki.installgentoo.com/index.php/Babbies_First_Linux>What are some cool programs?https://wiki.archlinux.org/index.php/list_of_applicationshttps://directory.fsf.org/wiki/Main_Page>What are some cool terminal commands?https://www.commandlinefu.com/commands/browsehttps://cheat.sh/>Where can I learn the command line?https://mywiki.wooledge.org/BashGuidehttps://overthewire.org/wargames/bandit/fglt/'s website and copypasta collection:https://fglt.nl && https://p.teknik.io/wJ9Zy/t/'s GNU/Linux Games:>>>/t/1175569IRC: #sqt on irc.libera.chathttps://fglt.nl/irc.htmlPrevious thread:>>92459244
+
+Post ID: 92472826
+Message: >>92472775did you click "safely remove device"?
+
+Post ID: 92472869
+Message: >pen drive
+
+Post ID: 92472891
+Message: this comfast wifi adapter isn't quite as pnp as it's been memed up to be. I'm on kernel 5.19.0-35 and I may as well have bought that wall socket power saver for all the good it's done me
+
+Post ID: 92472925
+Message: >>92472775Use rsync next time:rsync -av --links --progress --checksum-choice=xxh64 /path/to/src /path/to/dest
+
+Post ID: 92472969
+Message: ill fucking rsync a pipebomb to your fucking mums ass
+

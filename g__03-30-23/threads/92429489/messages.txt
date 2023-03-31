@@ -1,0 +1,19 @@
+Subject: /wdg/ Web Development General
+Post ID: 92429489
+Message: >Free beginner resources to get started with HTML, CSS, JavaScript and PHPhttps://eloquentjavascript.net/Eloquent_JavaScript.pdf - A modern introduction to JavaScripthttps://developer.mozilla.org/en-US/docs/Learn - A good starting point to learn about web dev fundamentalshttps://javascript.info/ - Quite a good JS tutorialhttps://blog.javascripttoday.com - Awesome JavaScript/web dev blog.https://www.theodinproject.com - Curriculum including HTML/CSS/JS, and either Ruby on Rails + SQL, or Node.js + MongoDBhttps://fullstackopen.com/en/ - Requires you to have basic web dev, db and git knowledgehttps://flexboxfroggy.com/ and https://cssgridgarden.com/ - Learn flex/grid in CSShttps://www.phptutorial.net - A PHP tutorial>List of design resourceshttps://github.com/bradtraversy/design-resources-for-developers>All useful documentation in one placehttps://devdocs.io>Need help? Create an example and post the linkhttps://jsfiddle.net - if you need help with HTML/CSS/JShttps://3v4l.org - if you need help with PHP/HackLanghttps://codesandbox.io - if you need help with React/Angular/VueWe have our own website: https://wdg.oneSubmit your project progress updates using this format in your posts, the scraper will pick it up::: my-project-title ::dev:: anontools:: PHP, MySQL, etc.link:: https://my.website.comrepo:: https://github.com/user/repoprogress:: Lorem ipsum dolor sit ametPrevious thread:>>92395298
+
+Post ID: 92450761
+Message: warning: in the working copy of 'node_modules/websocket-driver/lib/websocket/driver.js', LF will be replaced by CRLF the next time Git touches itabout 4000 of these when trying to git add . the start of my lil projectidk what it means should I fucking care?
+
+Post ID: 92450878
+Message: >>92450761git shouldn't be touching ityou shouldn't have node_modules added to your repositoryyou should be adding node_modules to .gitignorewhat editor are you using on windows?
+
+Post ID: 92450941
+Message: ive been working on this take home task for a job where i had to make a recursive to do list where you could add infinite subtasks to a task. the issue im not sure how to solve is that at a certain number of sub tasks, the design will just collapse in on itself because there has to be a slight indent at each sub level of the tree so the user can tell that the subtask belongs to a task or that the subtask belongs to another subtask etc. so if they have a hundred tasks the indent will eventually lead to it going to shit. pic related (please ignore the ugly design) is what I mean. even if I make the indent smaller, font smaller, the containers bigger etc it doesnt solve the issue. wat do?
+
+Post ID: 92451046
+Message: >>92450941How about you stop indenting after certain depth?
+
+Post ID: 92451070
+Message: >>92451046i'll have to do that i guess if i cant figure out anything else but it'll look retarded wont it
+

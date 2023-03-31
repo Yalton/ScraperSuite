@@ -1,0 +1,22 @@
+Subject: It had a good run.
+Post ID: 92450651
+Message: 
+
+Post ID: 92450710
+Message: >>92450651 (OP)What is this, an updooter thread?
+
+Post ID: 92450936
+Message: HISTORY of the 7-Zip--------------------22.01 2022-07-15-------------------------- UDF support was improved to UDF version 2.60.- HFS and APFS support was improved.
+
+Post ID: 92450989
+Message: >>92450936>2022-07-15It's over, 7-Zip is dead.
+
+Post ID: 92451058
+Message: The dev is active at least
+
+Post ID: 92451084
+Message: 7zip has never been updated regularly for as long as it's existed. It's just LZMA + some winapi glue, it's not very complicated or high-maintenance. Before 22.01 it hadn't been updated since 2019.
+
+Post ID: 92451109
+Message: why fix something that already works?
+

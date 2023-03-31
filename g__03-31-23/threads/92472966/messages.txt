@@ -1,0 +1,10 @@
+Subject: 
+Post ID: 92472966
+Message: how do you block a security camera from broadcasting to wan? i don't mind having access to the camera locally through lan but this shit is letting me (and likely the ccp) access the camera when i'm not even home
+
+Post ID: 92473012
+Message: >>92472966 (OP)You have a router that lets you deny the machine's MAC address WAN access. DD-WRT has that option, for example. You can also mess around with subnets but I haven't bothered with that.
+
+Post ID: 92473016
+Message: put a post it on the lens when you don’t want it to see anything
+

@@ -1,0 +1,19 @@
+Subject: 
+Post ID: 92448097
+Message: its too good to be true, whats the catch?
+
+Post ID: 92450601
+Message: >>92448097 (OP)i like sfml :dd
+
+Post ID: 92450609
+Message: >>92448097 (OP)quietly fails. Like the compute shader example you use it fails after a while you think the library isn't compiled right so you build it yourself and it still fails. Same thing with framebuffer textures and binding textures in general it seems like it only works once every couple times. Its really weird sometimes everything else works fine I guess don't fuck with shaders beyond the basics using raylib.
+
+Post ID: 92450706
+Message: >>92448122rayxisters not like this..
+
+Post ID: 92450714
+Message: >>92448242uhh how do I select a different era?
+
+Post ID: 92451067
+Message: >>92448122checkedfpbp
+

@@ -1,0 +1,19 @@
+Subject: desktop thread
+Post ID: 92402003
+Message: AI threads killed the last one.
+
+Post ID: 92450905
+Message: >>92450728Anon plsGo to settings, then themes, then start customizing. Learn to install stuff from the repos.
+
+Post ID: 92450951
+Message: >>92450888i'm used to foobar and too lazy to set up some linux playeralso it's on AUR so pretty easy to install
+
+Post ID: 92450961
+Message: >>92450867Very nice, thanks for the link.Not all bitmap arrangements look good, it really has to mesh with your theming. Pic related, there was an attempt -1/10.
+
+Post ID: 92450996
+Message: >>92450951WTF since when was foobar on the AUR, holy shit it's actually maintained.https://aur.archlinux.org/packages/foobar2000
+
+Post ID: 92451079
+Message: >>92450996Even the macOS version is just wine too.
+

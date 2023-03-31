@@ -1,0 +1,19 @@
+Subject: 
+Post ID: 92449172
+Message: What does your compilier interpret this as?
+
+Post ID: 92449898
+Message: >>92449837You do realize ^ in C is a binary XOR, not power.
+
+Post ID: 92450057
+Message: >>92449867That's for the real part. You don't know how Wolfram language works. It oscillates without limit from the left because of the complex component. Consider that -1/1000^(-1/1000) is approximately -1.
+
+Post ID: 92450903
+Message: >>92449898embarrassing
+
+Post ID: 92451071
+Message: >>92450057>-1/1000^(-1/1000) is approximately -1.yes, but (-1/1000)^(-1/1000) is approximately 1, just like the image says.
+
+Post ID: 92451085
+Message: >>92449837anon, I would want to delete this image off the internet if I were you
+

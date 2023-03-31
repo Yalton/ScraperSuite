@@ -1,0 +1,196 @@
+Subject: 
+Post ID: 92463945
+Message: Is stallman right about lisp
+
+Post ID: 92463985
+Message: >>92463945 (OP)Amen
+
+Post ID: 92464097
+Message: >>92463945 (OP)The people who program in LISP are failed mathematicians who enjoy "elegant" solutions that perform like dogshit.Real programmers who do real work go the numerical analysis way and write gritty algorithms that actually do the job well
+
+Post ID: 92464137
+Message: >>92464097Failed mathfags don't use lisp they use haskell or maybe julia
+
+Post ID: 92466418
+Message: >>92463945 (OP)Yes.>>92464097Lisp is far better for numerical analysis than whatever language you have in mind.
+
+Post ID: 92466427
+Message: Yes.
+
+Post ID: 92466521
+Message: >>92466418>>92464137>>92464097Honestly what does lisp have that Rust or Zig don't?They both support compile time macros
+
+Post ID: 92466580
+Message: >>92466521Rust declarative macros are very limited and proc macros are complex and disgusting.Metaprogramming with Lisp is actually easy and fun.(Of course, most people just consoom library macros without writing their own, in which case Rust's is just fine)
+
+Post ID: 92466596
+Message: >>92466521>look, these ten languages each incorporate a decent approximation of a lisp feature, why is lisp so special?
+
+Post ID: 92466626
+Message: >>92466580I've never written a single macro in Clojure. The community seems to prefer data > functions > macros in that order.
+
+Post ID: 92466657
+Message: >>92463945 (OP)No. Forth is strictly more powerful than lisp. But a frog in the well couldn't tell, obviously.Lisp does get second place at least.
+
+Post ID: 92466679
+Message: >>92466626Clojure to lisp what javascript is to java.
+
+Post ID: 92466734
+Message: >>92466679other way around
+
+Post ID: 92466753
+Message: >>92466626>data > functions > macrosThe whole point of Lisp is that all of those things are the same thing (data)
+
+Post ID: 92466795
+Message: >>92466734I know it's counterintuitive, but this is the right way around.
+
+Post ID: 92466856
+Message: >>92463945 (OP)Dunno, never used it, I saw someone write that it has no syntax because you type out the AST by hand and I'm still trying to figure out why I'd ever want to do that.
+
+Post ID: 92466966
+Message: >>92466856You get used to thinking about your program in a relatively "raw" form. It is really convenient to write programs that generate or modify programs in Lisp.There's also very little syntax, which eliminates some of the hurdles newcomers face in learning to program.
+
+Post ID: 92467118
+Message: What programs use lisp?
+
+Post ID: 92467130
+Message: >>92463945 (OP)It's a good language for mathematicians. Unfortunately, it very poorly models how computers work and infinite stack recursion is bad.
+
+Post ID: 92467179
+Message: >>92466521symbol interning, closures with GC, continuations
+
+Post ID: 92467186
+Message: >>92467118Emacs is largely written in Lisp.ITA Flight software, which powered kayak, orbitz, and now Google Flights, is built in lisp.A lot of earlier / logic based AI programming was written in lisp. I believe early versions of Prolog were built in lisp.
+
+Post ID: 92467229
+Message: >>92467130Scheme implementations require tail-call optimization, so well written programs need not worry about overflowing the stack.
+
+Post ID: 92467246
+Message: >>92466679Javascript is only Java in name only. Clojure is obviously a proper Lisp with quality of life improvements and a toolchain around the JVM. JS is actually more like a lisp than Java.>>92466753The Clojure community tends to define data as those immutable data structures present in the program. Macros are quite different from those data structures in a variety of ways: runtime behavior, composability, opaqueness, et cetera.
+
+Post ID: 92467306
+Message: >>92463945 (OP)Lisp is a meme. If you want to see a real world implementation of it take a look at JavaScript. Yes it's different from most lisp implementations. The similarities are greater than the differences. JavaScript is a horrible language and so is lisp
+
+Post ID: 92467360
+Message: >>92466521>>92466580Rust is for troons and zig is a meme. Go learn a real skill
+
+Post ID: 92467416
+Message: >>92467306JS sucks as a programming language, but its problems are entirely unrelated to lisp.>zero json manipulation functions available in JS runtime so you have to resort to shit like {...obj, key: "value"}>Undefined vs Null - why no nil punning? If I want to know if it's undefined or null I can just check if the map has the key (contains? map key)>Loosely typed system. 0 == [] == null == jesus christ what's happening?None of these problems exist in other lisps.
+
+Post ID: 92467442
+Message: >>92467416>==Skill  issue
+
+Post ID: 92467463
+Message: >>92466521>Honestly what does lisp have that Rust or Zig don't?It supports write only coding better than anything else.
+
+Post ID: 92467477
+Message: >>92467306you are either a nocode or a .NET nigger
+
+Post ID: 92467488
+Message: >>92467360Found the bot!
+
+Post ID: 92467612
+Message: >>92466521Lisp's REPL-centric programming is kino.Check out for example these videos and note how all the functions are being evaluated right there in the editor as they are being written and modified, without having to go to another window and type stuff into there:https://youtu.be/Ux5wUSOsEfc?t=2105[Embed]https://www.youtube.com/watch?v=C-kF25fWTO8[Embed]- Clojure uses persistent data structures by default, this is an absolute must if you want to do proper FP.- I like the simple and consistent syntax of Lisp, I've always hated having to re-learn the syntax of a language after I hadnpt used it for a few months/years- Arithmetic with prefix notation is easier to grok than traditional notation once you get used to it.
+
+Post ID: 92467927
+Message: >>92467246>Clojure is obviously a proper LispThis is your mind on clojure brainrot, everybody
+
+Post ID: 92468034
+Message: >>92463945 (OP)Lisp is garbage, which is why I use Clojure instead(Stallman agrees that Clojure is not a lisp)
+
+Post ID: 92468483
+Message: >>92467612Prefix notation is an anti-pattern, ironically not too dissimilar to the null-terminated strings anti-pattern.Reverse Polish Notation is far superior.
+
+Post ID: 92469502
+Message: >>92468483This is true from a design/"syntax-semantics bridge" point of view, but not a cognitive point of view.
+
+Post ID: 92469560
+Message: >>92463945 (OP)If lisp is so powerful, then why does no one use it?
+
+Post ID: 92469716
+Message: >>92469560python, javascript, lua etc. are mutilated children of lispin the end, lisp won
+
+Post ID: 92469729
+Message: >>92469716Also julia is literally lisp (it's a frontend for femtolisp, similar to the original lisp paper which suggested a m-expr frontend to lisp).
+
+Post ID: 92469755
+Message: >>92469729julia is also overrated garbage with a horrible ecosystem so i wouldn't cite it much
+
+Post ID: 92469757
+Message: >>92467179Continuations. That’s it. That’s literally the only sort of cool thing about Lisp and honestly it wouldn’t be that hard to put in C# just like the rest of Lisp’s “killer” features.
+
+Post ID: 92469804
+Message: >>92469755Yes, lisp is still the undisputed winner.>>92469757Continuations are not a lisp concept, unlike all the rest which you couldn't name because you have no idea what lisp is or does.
+
+Post ID: 92470777
+Message: (nigger faggot(nigger faggot(nigger faggot(nigger faggot(nigger faggot(nigger faggot(nigger faggot)))))))nice syntax you got there
+
+Post ID: 92470843
+Message: >>92470777Meanwhile in cnile land{nigger(faggot,nigger(faggot,nigger(faggot,(nigger(faggot,nigger(faggot,nigger(faggot,nigger(faggot)))))))}You can replace any atom in the lisp version with any lisp expression, which means any valid lisp fragment since lisp is an expression language.Not even close in the c.All-the-while, the lisp remains more readable than your algoholic abomination.
+
+Post ID: 92470964
+Message: >>92467118This Quantum computer guy on Computerphile. He uses Lisp. Apparently.
+
+Post ID: 92471001
+Message: how do i learn lisp
+
+Post ID: 92471072
+Message: >>92467118Autocad is scripted in lisp, as is gimp.Naughty dog's earlier games were fully lisp (jak and daxter in particular, crash bandicoot was mixed) and their later games use lisp for scripting (specifically racket nowadays).Grammarly is the oft quoted modern example, it's lisp. Boeing also use servers written in lisp and also Piano). ITA is in lisp, too.
+
+Post ID: 92471088
+Message: >>92471001Practical Common Lisp.
+
+Post ID: 92471225
+Message: >>92466418>Lisp is far better for numerical analysis than whatever language you have in mind.Better than R? I'mma need some proof
+
+Post ID: 92471235
+Message: >>92471225R is a joke for numerical analysis lmaoIn fact R is a joke for everything but plotting, but that's another issue.
+
+Post ID: 92471881
+Message: STOP FIGHTINGHOW DO I LEARN LISP AS A NOCODERIVE ALREADY GOT THE C A MODERN APPROACH AND I WANT TO LEARN LISP NEXT BECAUSE I ENJOY EMAC
+
+Post ID: 92471931
+Message: >>92471881See>>92471088
+
+Post ID: 92471965
+Message: >>92471881>I ENJOY EMACjust read the emacs manual you mong it will teach you emacs lisp
+
+Post ID: 92472012
+Message: >>92463985>>92466418>>92466427>>92467179>>92466596>>92466580>>92467360>>92467463>>92467612>>92467186>>92467927>>92471088What do lispfags think of Nim?
+
+Post ID: 92472030
+Message: >>92472012Probably the most retarded nuLang I've ever seen. Even more retarded than crap like hare.
+
+Post ID: 92472051
+Message: >>92463945 (OP)if that's the case why does nobody use it for anything besides meme emacs plugins
+
+Post ID: 92472091
+Message: >>92463945 (OP)If you guy's want mind blown read Sussman's latest book about adventures in symbolic programming that came out last year. Many other languages you can do that book just with Scheme the code is tiny and fits on a single page.For me stuff like Lisp/Julia is fun for rapid prototyping or building a model, like you want to know hey I wonder if I can build this insane idea then you do so in some haxxx0r language and after actually engineer it in something that's much easier to maintain and optimize where it isn't one giga function.
+
+Post ID: 92472117
+Message: >>92467612>Lisp's REPL-centric programming is kino.REPL is just a poorman's TDD. It's just manual test driven development.
+
+Post ID: 92472127
+Message: >>92472051GrammaTech uses Lisp to rewrite binary code, so you write your CIA malware and GrammaTech CodeSurfer program will relink everything and do other insane obfuscation where you can't even tell what language it was written in should you try and disassemble it.Lisp excels for that kind of shit, plus OCaml I guess too
+
+Post ID: 92472172
+Message: racket
+
+Post ID: 92472188
+Message: >>92472117This is how it works:Start a Lisp process.Load the project.Edit some code with your editor.Tell the running process to compile *only the code you edited*.Interact with the changed code in the process via the REPL, ie: an HTTP request, etc.\Observe the output (in the console, a browser)Go to 3.
+
+Post ID: 92472248
+Message: >>92472188I know what it is. You've done essentially the same tasks as TDD, except now, at the end, you only have the working program, not the program AND the tests. Only useful for poorly testable domains, like GUI shit.
+
+Post ID: 92472372
+Message: >>92472030Explain.
+
+Post ID: 92472485
+Message: >>92472248>You've done essentially the same tasks as TDD, except now, at the end, you only have the working program, not the program AND the testsJust because you're too dumb to leave your tests inside the text file after you evaluate them inside the REPL doesn't mean everyone is.TDD and REPL-driven development are a perfect match.
+
+Post ID: 92472792
+Message: are lispfags gorilla niggers? join the discussion at>>92472076!
+
+Post ID: 92473018
+Message: >>92472372Shit like naming-style-invariance, very verbose in non-trivial code, bad metaprogramming facilities, extremely fast core language deprecation speed, etc. makes it unsuitable for anything. The first point really makes it forever useless for everything. The lack of libs, or how bad interop with c (or other native targets), especially given it doesn't compile straight to native, is pretty retarded and a show-stopper in the longrun (it prevents an obvious resolution to the bootstrap problem).Crystal does everything nim does but better, and without DOA-enforcing landmines. Yet I still wouldn't advocate for crystal.
+

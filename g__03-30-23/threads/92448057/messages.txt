@@ -1,0 +1,19 @@
+Subject: 
+Post ID: 92448057
+Message: >this kills the pi
+
+Post ID: 92450541
+Message: >>92448057 (OP)Some SBC with the same chip as every other SBC with the same GPIO and IO as every other SBC is totally going to change the market, bro. Just wait.It had better have something special or you're wasting everyone's time. What's special that Odroid, Pine64, OrangePi, Khadas, Nvidia,, etc, etc does not have?
+
+Post ID: 92450550
+Message: >>92448057 (OP)theres cheaper stuff
+
+Post ID: 92450949
+Message: >>92450550>>92448057 (OP)>GPU drivers: TBD>thermal control: TBD>GPIO: out-of-tree patches exist>video encoder/decoder: MPEG2 works for 576i video; other codecs: TBD>HDMI CEC: N/A>price: TBD ($100-$300 please understand)I'm so excited for Pi Killer nr. 394!
+
+Post ID: 92450976
+Message: >>92450541>Some SBC with the same chip as every other SBCevery other sbc is running the snapdragon QCS610?
+
+Post ID: 92451104
+Message: >>92448057 (OP)does in emulate the pi so I can run pi software on it
+

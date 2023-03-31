@@ -1,0 +1,436 @@
+Subject: Twitter will open source all code used to recommend tweets on March 31st
+Post ID: 92466929
+Message: Where is it?
+
+Post ID: 92466936
+Message: >>92466929 (OP)don't know don't care
+
+Post ID: 92466952
+Message: >Bourgeoisie lies to the working classAre you surprised? Again?
+
+Post ID: 92466972
+Message: >>92466952>communist yuppie postures to identify with the working classAgain?
+
+Post ID: 92466995
+Message: >>92466972>Posting the nazi comic unironicallyAgain?
+
+Post ID: 92467157
+Message: >>92466929 (OP)https://github.com/orgs/twitter/repositories
+
+Post ID: 92467213
+Message: Sounds like they're going to change the "algorithm." I wonder what "more compelling tweets" means. I don't want to see political garbage, I want to see the japanese anime porns that I use twitter for in the first place.
+
+Post ID: 92467223
+Message: >>92467157none of these are new or specific to a recommender algo
+
+Post ID: 92467235
+Message: >>92467223Give it time? The work hour barely started few hours ago
+
+Post ID: 92467252
+Message: >>92466995>nazi comicStonetoss is literally a gay black man. There are more than two political positions.People who call everything they don't like Nazism are the political equivalent of the mental midgets who've never read a book other than Harry Potter.
+
+Post ID: 92467263
+Message: >>92467235lol okay sure
+
+Post ID: 92467268
+Message: >>92467252Weak bait is weak. Go back to stormfront
+
+Post ID: 92467304
+Message: >>92467268History didn't start on Jan 30, 1933. Try reading a book by someone who isn't in your cult.
+
+Post ID: 92467307
+Message: >>92466972Socialism is actually viewed pretty favorably by the poor and young. All of the "Uneducated" voters are actually older white guys who never had to get a computer science degree to get a job at mcdonalds.https://www.pewresearch.org/politics/2022/09/19/modest-declines-in-positive-views-of-socialism-and-capitalism-in-u-s/
+
+Post ID: 92467349
+Message: >>92466929 (OP)12 (noon) Pacific timein 30 minutes.
+
+Post ID: 92467355
+Message: >>92467304Bait getting worse now. I unironically have more respect for open /pol/tards, at least they're not cowards like you and can admit they're nazis
+
+Post ID: 92467392
+Message: >>92467307Socialism is viewed favorably by the socialists who have been programmed by the elites.
+
+Post ID: 92467420
+Message: Oh, they actually did it.https://github.com/twitter/the-algorithm-mlI didn't really expect him to make good on this promise, but honestly, that's pretty cool.
+
+Post ID: 92467440
+Message: >>92467355Yet you refuse to admit your antisemetism. It would be funny if it weren't so sad.
+
+Post ID: 92467471
+Message: >>92467440Worst bait yet. Get a new playbook, yours is old>>92467392Anti-socialism is viewed favorably by the anti-socialists who have been programmed by the elites
+
+Post ID: 92467478
+Message: Can we please stop debating if stonetoss is a Nazi? Who the fuck cares who made the god damn comic. We get it, you guys use Reddit, I saw the thread about i.reddit.com or whatever getting shutdown.
+
+Post ID: 92467498
+Message: >>92467157>the algorithmJesus
+
+Post ID: 92467527
+Message: >>92467478>Please stop pointing out I read comics that promote white supremacist fascist viewpoints. It makes me uncomfortable and I don't like that, I can't downvote you here :( :( :( :(Reddit is that way
+
+Post ID: 92467529
+Message: What is happening on this board right now? Why are /pol/tards and /leftypol/ incels arguing on /g/?
+
+Post ID: 92467558
+Message: >>92467392Why would the elites like socialism when they spend millions of dollars on lobbyists that fight against regulations and for gutting social and welfare programs?You're falling for the propaganda mate.
+
+Post ID: 92467582
+Message: >our algorithm is overly complex and not fully understoodThis just reads like it was explained to him but he didn't get it so he just decided it's heckin bloat.
+
+Post ID: 92467600
+Message: >>92467558Elites want the people to be poor. The only way to make people poor is through socialism. Program a bunch of losers into being socialists and you get a bunch of people who will own nothing, have no privacy, no freedom, no independent thought, eat the bugs and be happy.
+
+Post ID: 92467607
+Message: >>92467420also:https://github.com/twitter/the-algorithmBased Elon always delivers.
+
+Post ID: 92467613
+Message: >>92467600>The only way to make people poor is through socialism, not capitalismyou actually believe this? lmfao
+
+Post ID: 92467651
+Message: >>92467558>they spend millions of dollars on lobbyists that fight for regulations that benefit their industriesFixed.
+
+Post ID: 92467717
+Message: >>92467651>the industries which employ people and pay bunch of money because they want to get the best talent to make more money to produce more stuff to make more moneyThe industry which can give you $20 smartphone shipped from China that can give you superhuman level abilities that people 20 years ago did not have.
+
+Post ID: 92467732
+Message: >>92467527
+
+Post ID: 92467758
+Message: >>92467717>$20 smartphoneWhat country do you live in? The cheapest smartphone I ever got was ~$200 in 2014.
+
+Post ID: 92467769
+Message: >>92466929 (OP)Two more weeks.
+
+Post ID: 92467777
+Message: >>92467420Cool. But do people really care?
+
+Post ID: 92467810
+Message: >>92467777People who write bots will care a lot.
+
+Post ID: 92467837
+Message: >>92466929 (OP)>not internally understoodthe tard needs 6 months to get a grasp of the code
+
+Post ID: 92467871
+Message: >>92467758The $29 smartphone today is more powerful than $200 smartphone from 2014.
+
+Post ID: 92467907
+Message: https://github.com/twitter/the-algorithmhttps://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm
+
+Post ID: 92467935
+Message: >>92467810It doesn't really matter. SEOfags already raped google without a source code. The most important part of this algorithm is mlhttps://github.com/twitter/the-algorithm/blob/main/docs/system-diagram.pngand it's a blackbox anyway.
+
+Post ID: 92467961
+Message: >>92467558Because socialism gives them a one world government where they can do whatever they want i.g. see China, See the USSR>social and welfare programs?According to socialists, this isn't socialism so why are you saying it is?
+
+Post ID: 92468069
+Message: >>92467961Exactly. The particular brand of socialism that socialists/WEF promotes is the authoritarian socialism that China/USSR promotes. Where people own nothing, where the gov controls all means of information/thought/behavior.There is an alternative to this. Its called "post-scarcity" society. Thats achieved through free market capitalism. Which gets you all the benefits without the negatives.
+
+Post ID: 92468087
+Message: >>92466929 (OP)Kind of based
+
+Post ID: 92468092
+Message: >>92467252>People who call everything they don't like NazismBack in my day we called this "Godwin's Law"
+
+Post ID: 92468098
+Message: >>92468069>"post-scarcity" society>achieved through free market capitalismoh no it's retarded
+
+Post ID: 92468109
+Message: What's with all these faggot /pol/tard culture warriors ITT get the hell out of here you stupid kids
+
+Post ID: 92468127
+Message: >>92468092Doesn't apply here. The nazi is actually a nazi
+
+Post ID: 92468142
+Message: >>92468109(you)
+
+Post ID: 92468159
+Message: >>92468098Market innovation/competition forces/automation/etc leads to post scarcity.Stable Diffusion is the PROOF of that. Some of the tranny artists are crying because the value of the art is now less than a penny. There's virtually an endless supply of art goods being produced at the cost of electricity and competition being fierce, even the cost of electricity is discarded in favor of gaining attention. So now the post scarcity market has evolved into attention market.
+
+Post ID: 92468172
+Message: >>92468142tourist image, go back
+
+Post ID: 92468208
+Message: >>92468172They're likely trannies from reddit cross site posters. There are plenty on /g/ these days. More so, its these kids being programmed by the education today which teaches socialism in school, trannyism in school, etc.
+
+Post ID: 92468209
+Message: >>92468159>admitting he doesn't care about innovation/competition/automation but only cares about making "tranny artists" cryeverything wrong with capitalism
+
+Post ID: 92468215
+Message: i expected this shitty board full of s o y boys, incels and nerds to tell me something interesting -.- i'm heading out to gpt4
+
+Post ID: 92468234
+Message: >>92468172are you the ambassador of /g/ motherfucker?
+
+Post ID: 92468238
+Message: >>92468215tranny bots are on /g/
+
+Post ID: 92468240
+Message: >>92468208tourist post, 4chan was always gay for traps and futas. calling them tranny or troon outs you as a polshitter
+
+Post ID: 92468265
+Message: >>92468238see>>92468240
+
+Post ID: 92468266
+Message: >>92468240>4chan has always cut off their penis, I sweartroons like you need to be necked
+
+Post ID: 92468284
+Message: >>92468266you're digging the hole deeper, tourist
+
+Post ID: 92468303
+Message: >>92468284I'm not a tranny sorry. I dont go in any hole but my own.
+
+Post ID: 92468305
+Message: why are polshitters allowed to be here
+
+Post ID: 92468338
+Message: >>92468305
+
+Post ID: 92468348
+Message: >>92468303>>92468338cool story bros, check out this thread>>>/gif/24787878
+
+Post ID: 92468352
+Message: >>92468338>Error: Our system thinks your post is spam. Please reformat and try again.hi r*ddit
+
+Post ID: 92468391
+Message: Scala dev.The code is surprisingly bad. It's "better Java" style Scala and uses a niche build system.I'm so fucking glad I never applied to work at Twitter and had to deal with this bullshit kek.
+
+Post ID: 92468440
+Message: >>92468391There were 7500 twitter devs there before Musk.Now its under 1500, probably will be under 500 in few years, while still running better than ever. This makes certain diversity pushers seethe endlessly.
+
+Post ID: 92468465
+Message: >>92467837lol its literally the industry standard technique (graph embedding based engagement prediction), this is almost exactly what fb, youtube, etc. all do because nothing else scales to this sizethey also all apply custom boosting to specific entities on top of this technique to e.g. paying advertisers and shit, which is noticeably not included and you would be stupid to believe twitter doesn't do
+
+Post ID: 92468549
+Message: >>92468440>running better than everHaha no>diversity pushersThe only person who meets that description is Elon Musk
+
+Post ID: 92468563
+Message: >>92466929 (OP)retarded faggothttps://i.4cdn.org/g/1680289746192563.png
+
+Post ID: 92468607
+Message: >>92468549cope
+
+Post ID: 92468620
+Message: >>92468549You cut off your own penis and balls. LMAO.
+
+Post ID: 92468636
+Message: >>92467961>CCCP>One world government
+
+Post ID: 92468648
+Message: >>92468607>>92468620Reminder Daddy Elon will never notice you no matter how many transphobic comments you make
+
+Post ID: 92468656
+Message: >>92468648NOOO HE WILL
+
+Post ID: 92468666
+Message: >>92467558> that fight against regulationsTrue but as a business you also want to create regulations that favor your business and puts others out of pocket.The amazon situation, though yeah roughly you might want to squash some unions and the related regulations
+
+Post ID: 92468682
+Message: >>92468648>transphobicEveryone is laughing at your weird vocal noise that you make because you cut off your balls.
+
+Post ID: 92468714
+Message: >>92468666regulations also aren't socialism, otherwise the entire human history is socialism
+
+Post ID: 92468755
+Message: >>92468682They're actually laughing at you because of your creepy obsession with my balls
+
+Post ID: 92468772
+Message: >>92468666Regulatory capture isn't socialist in any sense, it is just failed government, which is a fact of life in any system.
+
+Post ID: 92468831
+Message: >>92468755You dont have one tho
+
+Post ID: 92468850
+Message: >>92468714Its authoritarian socialism, which is known as "socialism" in general whereby the government regulation capture is the key to control.
+
+Post ID: 92468876
+Message: >>92468831He has three
+
+Post ID: 92468892
+Message: >>92468831Who cares
+
+Post ID: 92468943
+Message: >>92466929 (OP)twitter before Elon:if(tweet.contains("Trump")){if(tweet.isLanguagePositive()){tweet.hide();if(random(100)==0){tweet.delete();tweet.author().ban();}}else{tweet.bump();if(random(100)==0){tweet.makeSticky();}}}praiseCommunism();dilate();
+
+Post ID: 92468966
+Message: >>92468850No, because in authoritarian socialism all enterprises are either government or collective, therefore regulation is pointless anyway
+
+Post ID: 92468968
+Message: >>92468648He might. And if he did he would laugh because trannys are funny.
+
+Post ID: 92468974
+Message: musk promised another CEO will lead twitter on dec 19. where is him?
+
+Post ID: 92469019
+Message: >>92468159Nobody wants AI art except the collective of retards on 4chan fully addicted to trannies more than trannies themselves.
+
+Post ID: 92469048
+Message: >>92468966Its for false pretenses
+
+Post ID: 92469065
+Message: >>92469019Everyone wants a cooming AI, except the trannies on leddit trying to gaslight 4chan. Fuck off tranny.
+
+Post ID: 92469103
+Message: >>92467600>Elites want the people to be poor. The only way to make people poor is through socialism.I don't even know what to say man, I'm stunned, my brain short-circuited by reading that
+
+Post ID: 92469111
+Message: 
+
+Post ID: 92469128
+Message: >>92467600I love when retards like you just describe capitalism when trying to describe socialism. Gives me a good laugh.
+
+Post ID: 92469144
+Message: >>92468974He said he'd step down, not that he'd get a new one.
+
+Post ID: 92469154
+Message: >>92469128>>92467600>>92467471>>92467478can you guys just stop. every thread ends up like this. all it takes is two retards to argue and then the 250/300 replies will be pointless garbage bickering.So just stop. go argue about socialism/capitalism on /b/ or /pol/
+
+Post ID: 92469163
+Message: >>92469128Do you know what the difference between socialism and capitalism are? Nothing and you're a retard for thinking otherwise
+
+Post ID: 92469174
+Message: >>92469128>capitalism makes you poor by giving you $20 smartphone>socialism makes you rich by making you own nothingSorry tranny. Your commie propaganda mesh with reality.
+
+Post ID: 92469205
+Message: >>92469174Scientifically speaking, if everyone is starving and owns nothing, then everyone is rich. Checkmate
+
+Post ID: 92469225
+Message: >>92469205Everyone is equal; I'm not sure you know what rich means.
+
+Post ID: 92469245
+Message: >>92469225If you eat the rich of today, then everyone will become rich, own nothing, starve to death, and our lives will be better and happier.
+
+Post ID: 92469251
+Message: >>92466929 (OP)Check the pictures of everyone that is seething, its LITERALLY, all furries, trannies, faggots and niggers.
+
+Post ID: 92469261
+Message: >>92469154Sadly it is impossible to have a Musk thread without our /pol/ tourists mentioning trannies and communism.
+
+Post ID: 92469269
+Message: >>92469251Some of which are crosssite posting on /g/ too lmao.They all need to be purged from the internet and put back in their cages.
+
+Post ID: 92469272
+Message: >>92469174>by making you own nothingStates with largest home ownership are all socialist/post socialist statesStates with the highest share of renting are capitalistYou will own nothing and you will be happy, you will rent it instead! Just like the WEF would have wanted
+
+Post ID: 92469289
+Message: >>92469065You're literally a tranny obsessed coombrain. Sadly you represent most of the demographic of this site.
+
+Post ID: 92469290
+Message: >>92469272>home ownership>socialistsKEK, sorry but government owns it. You just rent it from the government and work for the government. The government owns you, and will take care of your needs. It is your daddy and mommy.
+
+Post ID: 92469308
+Message: >>92469289Yes and? If you're coombrain 24/7 then what good is the brain for? Spreading commie and troon propaganda? Thats your robotic nature, programed by the lizard people who want to extinguish humanity. Our coombrain is the natural brain.
+
+Post ID: 92469315
+Message: https://github.com/twitter/the-algorithm/issues?page=1&q=is%3Aissue+is%3Aclosed100 issues closed in 1 hour.That's some good hardcore programming.
+
+Post ID: 92469325
+Message: >>92469111lmaaaooooo
+
+Post ID: 92469335
+Message: >>92469290If you don't pay rent you don't rent it. cope
+
+Post ID: 92469359
+Message: >>92469111>>92469325i dont get it
+
+Post ID: 92469396
+Message: >>92469111holy narcissism
+
+Post ID: 92469409
+Message: >>92467558Because the other side advocate for catastrophic mismanagement that only benefits useless minorities like niggers. Socialism only works if your country is homogeneous.
+
+Post ID: 92469540
+Message: >>92469290Personal property isn't "owned by the government" under socialism, retard. Private property is property used to make profit. Your house, your toothbrush, your car, all remain yours. Read a fucking book.
+
+Post ID: 92469565
+Message: >>92469540There is no difference between personal and private property>use my personal property to construct something i.e. use it as a means of production>it magically turns into private property and I don't own it nowExplain how you would be able to differentiate between personal and private property in a way that makes this scenario impossible
+
+Post ID: 92469608
+Message: >>92469540Personal property is private property lmao. Anyone with a commie brain automatically gets -20 IQ.
+
+Post ID: 92469612
+Message: >>92466929 (OP)>The goodAll open source efforts should be applauded.There is currently no good content recommendation systems that are open source, which makes this a great contribution to open source at large.>The badThis will make it easier than ever for marketers and influencers to game. Worse, it means you can literally TRAIN BOTS on the recommendation system! This could be disastrous.
+
+Post ID: 92469663
+Message: >>92469565I just told you what private property & personal property is. Landlords would get fucked as its only purpose is to generate profit off the back of other people.I have no clue what your example is, it's nonsensical.>>92469608Read a book. Capitalist brains get -80 IQ and are drinking lead because the profits going to hundred millionaires come before your health.
+
+Post ID: 92469697
+Message: >>92469663>I just told you what private property & personal property is. Landlords would get fucked as its only purpose is to generate profit off the back of other people.>I have no clue what your example is, it's nonsensical.The question was, how do you differentiate between private property and personal property which are both being used as a means of productionPrivate ownership over the means of production is not allowed under communism. So what happens if I use my personal property as a means of production to make profit for myself? What happens if I rent out my private property to someone else to make something for me?
+
+Post ID: 92469711
+Message: >>92468943Peak schizoposting
+
+Post ID: 92469777
+Message: >>92469608>if you prohibit private factories you must also prohibit owning cars!
+
+Post ID: 92469809
+Message: >>92469777>government made cars with government mandated surveilence system>if you disobey your car surveilance, we'll send 100 FBI agents to beat you down and lock you forever
+
+Post ID: 92469816
+Message: >>92466929 (OP)Goddammit, someone already beat me to it.
+
+Post ID: 92469837
+Message: >>92469777Tell that to the Soviet automotive industry.
+
+Post ID: 92469892
+Message: >>92469873>i am losing all arguments in this shitty thread, but I am too much of a pussy to do anything, pls help melol. lmao
+
+Post ID: 92469903
+Message: >>92469777Answer>>92469697
+
+Post ID: 92469908
+Message: >>92469809never happened in russia
+
+Post ID: 92469916
+Message: all the trannies can do now is cope
+
+Post ID: 92469926
+Message: >>92467907lmao what a nightmare of useless code whose only purpose is enticing people to waste more of their time on social media.
+
+Post ID: 92469933
+Message: >>92469697>>92469903you can't rent it and considering the quality of everything that has to do with renting of any kind, that is a good thing
+
+Post ID: 92469955
+Message: >>92469892first post i made in the thread. you need to dilate
+
+Post ID: 92469970
+Message: >>92469933So I'm not allowed to use my personal property in a personal way?Let's say I use my garage to start making chairs or some shit. Has my personal property suddenly magically turned into private property and now I dont own my garage anymore?
+
+Post ID: 92469973
+Message: >>92467907Sirs have already found it.It is clear that sirs follow twitter employees and elon whenever they go. why?
+
+Post ID: 92470021
+Message: >>92469970you can own a garage and you can make the chairs, but you cannot sell them strictly speaking. in the soviet union you would be able to sell the chairs after before and after stalin but not during stalin, but strictly speaking you could not, because if you have a planned economy (99% of 20th century socialist states) you cannot have markets as well
+
+Post ID: 92470149
+Message: I see the communist shit for brains is back, vomiting his mental diarrhoea all over the board again.
+
+Post ID: 92470179
+Message: >I see the communist shit for brains is back, vomiting his mental diarrhoea all over the board again.
+
+Post ID: 92470210
+Message: >>92466929 (OP)>grown adults acting like the little children on GitHubcringe
+
+Post ID: 92470214
+Message: This is an April Fools joke you idiots
+
+Post ID: 92470239
+Message: >guys I'm not a seething reddit socialist currently tooting and pooting on mastodon>just look how very antisemitic i am
+
+Post ID: 92471327
+Message: To all of the retarded commie motherfuckers in this thread:https://www.heritage.org/index/rankingHere. There it is, proof that socialism doesn't work.> muh scandinaviaSocialist countries don't have free market economies. Show shut the fuck up already.
+
+Post ID: 92471358
+Message: >>92471327>real communism has never been triedlol
+
+Post ID: 92471364
+Message: seething trannies in this thread. someone dump gore
+
+Post ID: 92472782
+Message: >>92466952Good job, you managed to ruin this entire thread in less than 10 words. And you know what's so great? You could have posted this at literally any point in the discussion and it would have still derailed everything.
+
+Post ID: 92472972
+Message: >elon follows through with his promise>retarded underage children from twatter and /g/ spam the repo with junk issues and PRsthis is why people don't deserve anything anymore
+
+Post ID: 92472981
+Message: >>92466929 (OP)The entire platform collapsed because only one person was on task working on the public facing API, recently. If this shit gets open sourced it gets jailbroken on day one. You would have to be a moron.
+
