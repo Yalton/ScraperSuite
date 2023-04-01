@@ -1,17 +1,12 @@
 from bs4 import BeautifulSoup 
 import requests 
 
-class ScaperSystem(ABC):
+class ScaperSystem():
     
-    def __init__(self, url, tags, classes, system_id, system_label):
+    def __init__():
         # Connect to api
         # Connect to BrokenPipeError
         # Save fields to class
-        self.api = api
-        self.symbol = symbol
-        self.time_frame = time_frame
-        self.system_id = system_id
-        self.system_label = system_label
 
     @abstractmethod
     def scrape_website(self):
