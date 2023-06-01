@@ -1,2 +1,0 @@
-Size of Scrape: 40.64 MB
-Time Elapsed: 2468.8644560000002 ms
