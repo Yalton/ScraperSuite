@@ -2,12 +2,16 @@ import requests
 from bs4 import BeautifulSoup
 import html2text
 import spacy
+import concurrent.futures
 
 def get_page_content(url):
-    response = requests.get(url)
-    if response.status_code == 200:
-        return response.content
-    return None
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except (requests.RequestException, ValueError):
+        print("Network or URL error occurred.")
+        return None
+    return response.content
 
 def parse_html(content):
     return BeautifulSoup(content, 'html.parser')
@@ -27,10 +31,8 @@ def extract_entities(text):
     doc = nlp(text)
     return [(ent.text, ent.label_) for ent in doc.ents]
 
-def main():
-    url = "https://en.wikipedia.org/wiki/OpenAI"
+def scrape_url(url):
     content = get_page_content(url)
-
     if content:
         soup = parse_html(content)
         text = extract_text(soup)
@@ -38,6 +40,11 @@ def main():
 
         for entity, label in entities:
             print(f"{entity} ({label})")
+
+def main():
+    urls = ["https://en.wikipedia.org/wiki/OpenAI", "https://en.wikipedia.org/wiki/Machine_learning"]
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        executor.map(scrape_url, urls)
 
 if __name__ == "__main__":
     main()

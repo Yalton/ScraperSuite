@@ -1,0 +1,6 @@
+requests
+bs4
+html2text
+spacy
+selenium
+langchain
