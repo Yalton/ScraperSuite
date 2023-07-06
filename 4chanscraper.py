@@ -53,7 +53,7 @@ class fourchanScraper():
         #object of Options class
         c = Options()
         #passing headless parameter
-        #c.add_argument("--headless")
+        c.add_argument("--headless")
 
 
         # Define the path to the chromedriver
@@ -90,6 +90,7 @@ class fourchanScraper():
             time.sleep(1)
 
         time.sleep(5)
+        
         # Get the resulting HTML content
         html_content = driver.page_source
 
@@ -186,99 +187,3 @@ if __name__ == "__main__":
     print(f'Scraping {args.board}')
     scraper.scrape_board(f'{args.board}')
 
-
-
-      # response = requests.get(url)
-        # html_content = response.text
-
-        # soup = BeautifulSoup(html_content, "html.parser")
-
-        # # Create a directory to store the downloaded images and messages
-        # if not os.path.exists("threads"):
-        #     os.makedirs("threads")
-
-        # threads = soup.find_all("div", class_="thread")
-
-        # for thread in threads:
-        #     thread_id = thread["id"].replace("t", "")
-
-        #     # Create a directory for each thread
-        #     thread_directory = os.path.join("threads", thread_id)
-        #     if not os.path.exists(thread_directory):
-        #         os.makedirs(thread_directory)
-
-        #     # Save all messages in the current thread to a text file
-        #     messages = thread.find_all("blockquote", class_="postMessage")
-        #     with open(os.path.join(thread_directory, "messages.txt"), "w", encoding="utf-8") as message_file:
-        #         for message in messages:
-        #             message_file.write(message.get_text(strip=True) + "\n")
-
-        #     # Create a directory for images in the current thread
-        #     image_directory = os.path.join(thread_directory, "images")
-        #     if not os.path.exists(image_directory):
-        #         os.makedirs(image_directory)
-
-        #     # Find all the image URLs in the current thread
-        #     images = thread.find_all("a", class_="fileThumb")
-
-        #     for image in images:
-        #         image_url = image["href"]
-        #         if image_url.startswith("//"):
-        #             image_url = "https:" + image_url
-        #         filename = os.path.join(image_directory, os.path.basename(image_url))
-
-        #         # Download the image and save it in the corresponding thread directory
-        #         urllib.request.urlretrieve(image_url, filename)
-        #         print(f"Downloaded {filename}")
-        
-        # # Replace this with the URL you want to scrape
-        # url = f"https://boards.4channel.org/{board}/"
-
-        # response = requests.get(url)
-        # soup = BeautifulSoup(response.text, 'html.parser')
-
-        # # Find all post containers
-        # post_containers = soup.find_all('div', class_='postContainer')
-        # print("Scraping", url)
-
-
-
-        # threads = soup.find_all("div", class_="thread")
-        
-        # for thread in threads:
-        #     thread_id = thread["id"].replace("t", "")
-        #     # Extract information from each post
-        #     for post_container in post_containers:
-        #         post_id = post_container['id'][2:]
-        #         post = post_container.find('div', class_='post')
-        #         post_datetime = post.find('span', class_='dateTime').text
-        #         post_message = post.find('blockquote', class_='postMessage').text
-
-        #         # Extract file information if available
-        #         file_div = post.find('div', class_='file')
-        #         if file_div:
-        #             file_text = file_div.find('div', class_='fileText').text
-        #         else:
-        #             file_text = None
-
-        #         print(f"Post ID: {post_id}")
-        #         print(f"Date Time: {post_datetime}")
-        #         print(f"Message: {post_message}")
-        #         print(f"File Info: {file_text}\n")
-
-        # html_text = requests.get('https://boards.4channel.org/{board}/').text
-        # soup = BeautifulSoup(html_text, 'lxml')
-        # 
-        # 
-        #     posts = thread.find_all('div', class_='postContainer')
-        #     for post_index, posts in enumerate(posts): 
-                
-        #         company_name = job.find('h3', class_='joblist-comp-name').text.replace(' ', '')
-        #         skill = job.find('span', class_='srp-skills').text.replace(' ', '')
-        #         more_info = job.header.h2.a['href']
-        #         if unfamiliar_skill not in skill: 
-        #             with open(f'scraped_data/{board}/thread_{index}.txt', 'w') as f:
-        #                 f.write(f"Company Name: {company_name.strip()}")
-        #                 f.write(f"Required Skills: {skill.strip()}")
-        #                 f.write(f"More Info: {more_info}")
-        # Wait for the expand buttons to load
