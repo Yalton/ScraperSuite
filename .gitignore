@@ -33,3 +33,4 @@ Temporary Items
 *.csv
 *.html
 data/
+scraped_data/

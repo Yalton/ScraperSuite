@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup 
 import requests 
+import argparse
+
 import urllib, urllib.request, json, os, datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -10,6 +12,10 @@ from selenium.webdriver.chrome.options import Options
 import math
 import time
 import os
+
+from webdriver_manager.chrome import ChromeDriverManager
+
+#driver = webdriver.Chrome(ChromeDriverManager().install())
 
 
 def get_directory_size(directory):
@@ -35,27 +41,32 @@ class fourchanScraper():
     def __init__(self):
         print("gingus")
         #CHANGE THESE SETTINGS!
-
-
  
-    def scrape_board(self, board):
+    def scrape_board(self, board: str):
 
         start_time = time.process_time()
         url = f"https://boards.4channel.org/{board}/"  # Replace with the URL of the page you want to scrape
         
 
+        print(url)
+
         #object of Options class
         c = Options()
         #passing headless parameter
-        c.add_argument("--headless")
+        #c.add_argument("--headless")
 
-        # Set up the Selenium WebDriver
-        driver = webdriver.Chrome(service=Service('/usr/bin/chromedriver'), options=c)  # Replace with the appropriate WebDriver for your browser, e.g., webdriver.Firefox()
 
+        # Define the path to the chromedriver
+        driver_path = "/opt/chromedriver/chromedriver"
+
+        # Initialize the webdriver
+        driver = webdriver.Chrome(service=Service(driver_path), options=c)
+
+        # Navigate to the url
         driver.get(url)
 
+        #time.sleep(5)  # You may need to adjust the waiting time based on the website's loading time
 
-        # Wait for the expand buttons to load
         wait = WebDriverWait(driver, 10)
 
         # Locate the "All" button using the CSS selector
@@ -68,13 +79,17 @@ class fourchanScraper():
         time.sleep(5)  # You may need to adjust the waiting time based on the website's loading time
 
         # Wait for the expand buttons to load
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 30)
         expand_buttons = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "img.extButton.expbtn")))
+
+        #expand_buttons = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "img.extButton.expbtn")))
 
         # Click all expand buttons
         for button in expand_buttons:
             button.click()
+            time.sleep(1)
 
+        time.sleep(5)
         # Get the resulting HTML content
         html_content = driver.page_source
 
@@ -153,7 +168,27 @@ class fourchanScraper():
             log_file.write(f"Size of Scrape: {convert_size(size_in_bytes)}\n")
             log_file.write(f"Time Elapsed: {(end_time - start_time) * 1000} ms")
         
-        # response = requests.get(url)
+
+if __name__ == "__main__":
+
+    # Create the parser
+    parser = argparse.ArgumentParser(description="This is a script for scraping 4Chan")
+
+    # Add the arguments
+    parser.add_argument("-b", "--board", type=str, required=True, help="The board to scrape")
+
+    # Parse the arguments
+    args = parser.parse_args()
+
+    scraper = fourchanScraper()
+    # print('What board would you like to scrape?')
+    # board = input('>')
+    print(f'Scraping {args.board}')
+    scraper.scrape_board(f'{args.board}')
+
+
+
+      # response = requests.get(url)
         # html_content = response.text
 
         # soup = BeautifulSoup(html_content, "html.parser")
@@ -246,12 +281,4 @@ class fourchanScraper():
         #                 f.write(f"Company Name: {company_name.strip()}")
         #                 f.write(f"Required Skills: {skill.strip()}")
         #                 f.write(f"More Info: {more_info}")
-
-
-
-if __name__ == "__main__":
-    scraper = fourchanScraper()
-    print('What board would you like to scrape?')
-    board = input('>')
-    print(f'Scraping {board}')
-    scraper.scrape_board(board)
+        # Wait for the expand buttons to load
