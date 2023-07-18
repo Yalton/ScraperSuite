@@ -4,3 +4,4 @@ html2text
 spacy
 selenium
 langchain
+sqlite3

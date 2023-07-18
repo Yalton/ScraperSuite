@@ -34,3 +34,4 @@ Temporary Items
 *.html
 data/
 scraped_data/
+my_database.db
