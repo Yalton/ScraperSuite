@@ -96,11 +96,17 @@ class WebCrawler:
         links = []
         for link in soup.find_all('a', href=True):
             href = link['href']
-            if href.startswith('/wiki/') and ':' not in href:
-                full_link = f"https://en.wikipedia.org{href}"
-                if full_link not in links:
-                    links.append(full_link)
+
+            # If href is a relative URL, convert it to a full URL
+            if href.startswith('/'):
+                href = urljoin(self.start_url, href)
+
+            # Add the link to the list if it's not already there
+            if href not in links:
+                links.append(href)
+
         return links
+
 
     def scrape_url(self, url, keywords, depth=0):
         content = self.get_page_content(url)
