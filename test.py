@@ -10,7 +10,6 @@ def view_data(db_file):
         print(row)
     conn.close()
 
-    
 
 crawler = WebCrawler(start_url="http://lhohq.info", 
                      crawl_time=3600, 

@@ -34,4 +34,5 @@ Temporary Items
 *.html
 data/
 scraped_data/
-my_database.db
+./my_database.db
+__pycache__/

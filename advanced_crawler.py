@@ -11,6 +11,8 @@ from sqlite3 import Error
 from gensim.summarization import summarize
 from transformers import BartTokenizer, BartForConditionalGeneration
 import time
+from urllib.parse import urljoin
+
 
 class WebCrawler:
     def __init__(self, start_url, crawl_time, db_file, depth, max_pages):
@@ -92,14 +94,14 @@ class WebCrawler:
             keywords = yaml.safe_load(file)
         return keywords
 
-    def get_links(self, soup):
+    def get_links(self, soup, current_url):
         links = []
         for link in soup.find_all('a', href=True):
             href = link['href']
 
-            # If href is a relative URL, convert it to a full URL
-            if href.startswith('/'):
-                href = urljoin(self.start_url, href)
+            # If 'http' is not in href, it's a relative URL; convert it to a full URL
+            if 'http' not in href:
+                href = urljoin(current_url, href)
 
             # Add the link to the list if it's not already there
             if href not in links:
@@ -122,13 +124,17 @@ class WebCrawler:
                         self.insert_link(link)
                         break
             else:  # If keywords list is empty
-                summary = summarize(text)
+                try: 
+                    summary = summarize(text)
+                    
+                except: 
+                    summary = "Could not summarize text"
                 print(summary)
                 link = (url, summary)
                 self.insert_link(link)
 
             if depth < self.depth:
-                links = self.get_links(soup)
+                links = self.get_links(soup, url)
                 return links
 
     def run(self):
